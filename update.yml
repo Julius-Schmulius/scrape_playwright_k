@@ -1,0 +1,52 @@
+name: update-offers
+
+on:
+  schedule:
+    - cron: "5 6,7,18,19 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Uhrzeit pruefen
+        id: gate
+        run: |
+          hour=$(TZ=Europe/Berlin date +%H)
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ] || [ "$hour" = "08" ] || [ "$hour" = "20" ]; then
+            echo "go=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - uses: actions/checkout@v4
+        if: steps.gate.outputs.go == 'true'
+
+      - uses: actions/setup-python@v5
+        if: steps.gate.outputs.go == 'true'
+        with:
+          python-version: "3.12"
+
+      - name: Playwright installieren
+        if: steps.gate.outputs.go == 'true'
+        run: |
+          pip install playwright
+          playwright install --with-deps chromium
+
+      - name: Scrapen
+        if: steps.gate.outputs.go == 'true'
+        env:
+          STORE_URL: ${{ secrets.STORE_URL }}
+          OFFERS_URL: ${{ secrets.OFFERS_URL }}
+          TILE_SELECTOR: ${{ secrets.TILE_SELECTOR }}
+          CARD_MARKER: ${{ secrets.CARD_MARKER }}
+        run: python scraper.py
+
+      - name: Speichern
+        if: steps.gate.outputs.go == 'true'
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add docs/offers.json
+          git diff --staged --quiet || (git commit -m "Angebote aktualisiert" && git push)

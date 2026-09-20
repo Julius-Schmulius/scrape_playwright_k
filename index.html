@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Angebote</title>
+<style>
+  :root { --bg:#fff; --fg:#1a1a1a; --muted:#777; --line:#ddd; --accent:#e10915; --hl:#fff6d6; }
+  @media (prefers-color-scheme: dark) {
+    :root { --bg:#161616; --fg:#eee; --muted:#999; --line:#333; --hl:#3a3410; }
+  }
+  body { font:15px/1.4 system-ui, sans-serif; background:var(--bg); color:var(--fg); max-width:760px; margin:0 auto; padding:16px; }
+  h1 { font-size:20px; margin:0 0 4px; }
+  h2 { font-size:16px; margin:24px 0 8px; }
+  #meta { color:var(--muted); font-size:13px; }
+  table { width:100%; border-collapse:collapse; }
+  td { padding:6px 8px; border-bottom:1px solid var(--line); }
+  td.n { text-align:right; white-space:nowrap; }
+  s { color:var(--muted); }
+  .pct { color:var(--accent); font-weight:600; }
+  .none td { color:var(--muted); font-style:italic; }
+  #mine { background:var(--hl); }
+  button { font:inherit; padding:5px 12px; border:1px solid var(--line); background:none; color:inherit; border-radius:6px; cursor:pointer; }
+  button.on { background:var(--accent); color:#fff; border-color:var(--accent); }
+</style>
+</head>
+<body>
+<h1>Angebote</h1>
+<div id="meta">Lade …</div>
+
+<h2>⭐ Meine Produkte</h2>
+<table id="mine"></table>
+
+<h2>Alle Angebote</h2>
+<p>
+  Sortieren:
+  <button data-sort="percent" class="on">% Ersparnis</button>
+  <button data-sort="name">A–Z</button>
+</p>
+<table id="all"></table>
+
+<script>
+const MEINE_PRODUKTE = [
+  "Limettensaft",
+  "Katjes",
+  "Kinder Bueno",
+  "Bitburger",
+];
+
+let offers = [];
+let sortBy = "percent";
+
+const euro = n => n.toFixed(2).replace(".", ",") + " €";
+const escape = s => s.replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+
+function sorted(list) {
+  const byName = (a, b) => a.name.localeCompare(b.name, "de");
+  return [...list].sort(sortBy === "name" ? byName : (a, b) => b.percent - a.percent || byName(a, b));
+}
+
+function row(o) {
+  return `<tr>
+    <td>${escape(o.name)}</td>
+    <td class="n">${o.old_price ? `<s>${euro(o.old_price)}</s>` : ""}</td>
+    <td class="n"><b>${euro(o.price)}</b></td>
+    <td class="n pct">${o.percent ? "−" + o.percent + " %" : ""}</td>
+  </tr>`;
+}
+
+function render() {
+  document.getElementById("all").innerHTML = sorted(offers).map(row).join("");
+  document.getElementById("mine").innerHTML = MEINE_PRODUKTE.map(term => {
+    const hits = sorted(offers.filter(o => o.name.toLowerCase().includes(term.toLowerCase())));
+    if (hits.length) return hits.map(row).join("");
+    return `<tr class="none"><td colspan="4">${escape(term)}, aktuell nicht im Angebot</td></tr>`;
+  }).join("");
+}
+
+document.querySelectorAll("button[data-sort]").forEach(button => {
+  button.onclick = () => {
+    sortBy = button.dataset.sort;
+    document.querySelectorAll("button[data-sort]").forEach(b => b.classList.toggle("on", b === button));
+    render();
+  };
+});
+
+fetch("offers.json?" + Date.now())
+  .then(res => res.json())
+  .then(data => {
+    offers = data.offers;
+    const stand = new Date(data.updated).toLocaleString("de-DE");
+    document.getElementById("meta").textContent = `Stand: ${stand} · ${offers.length} Angebote`;
+    render();
+  })
+  .catch(() => {
+    document.getElementById("meta").textContent = "Keine Daten, Workflow einmal starten.";
+  });
+</script>
+</body>
+</html>
