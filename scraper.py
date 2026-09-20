@@ -55,27 +55,58 @@ def show_all(page):
         page.wait_for_timeout(1000)
 
 
+def prices_in(text):
+    return [float(p) for p in price_re.findall(text)]
+
+
+def percent_of(text, price, old_price):
+    found = percent_re.search(text)
+    if found:
+        return int(found.group(1))
+    if old_price:
+        return round((1 - price / old_price) * 100)
+    return 0
+
+
 def read_tile(tile):
     text = re.sub(r"\([^)]*\)", " ", " ".join(tile["text"].split()))
-    normal = text.split(CARD)[0] if CARD else text
-
-    prices = [float(p) for p in price_re.findall(normal)] or [float(p) for p in price_re.findall(text)]
     name = " ".join(f"{tile['title']} {tile['subtitle']} {tile['unit']}".split())
-    if not prices or not name:
+    if not name:
         return None
+
+    if CARD and CARD in text:
+        normal, with_card = text.split(CARD, 1)
+    else:
+        normal, with_card = text, ""
+
+    normal_prices = prices_in(normal)
+    card_prices = prices_in(with_card)
+    if not normal_prices and not card_prices:
+        return None
+
+    card_only = not normal_prices
+    prices = card_prices if card_only else normal_prices
+    section = with_card if card_only else normal
 
     price = prices[0]
     old_price = prices[1] if len(prices) > 1 and prices[1] > price else None
+    offer = {
+        "name": name,
+        "price": price,
+        "old_price": old_price,
+        "percent": percent_of(section, price, old_price),
+        "card_only": card_only,
+        "card_price": None,
+        "card_percent": None,
+    }
 
-    found = percent_re.search(normal) or percent_re.search(text)
-    if found:
-        percent = int(found.group(1))
-    elif old_price:
-        percent = round((1 - price / old_price) * 100)
-    else:
-        percent = 0
+    if card_prices and not card_only:
+        card_price = card_prices[0]
+        card_old = card_prices[1] if len(card_prices) > 1 and card_prices[1] > card_price else None
+        offer["card_price"] = card_price
+        offer["card_percent"] = percent_of(with_card, card_price, card_old)
 
-    return {"name": name, "price": price, "old_price": old_price, "percent": percent}
+    return offer
 
 
 with sync_playwright() as p:

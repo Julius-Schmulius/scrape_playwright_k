@@ -17,6 +17,8 @@
   td { padding:6px 8px; border-bottom:1px solid var(--line); }
   td.n { text-align:right; white-space:nowrap; }
   s { color:var(--muted); }
+  .tag { display:inline-block; margin-left:6px; padding:1px 6px; border-radius:4px; background:#0a58ca; color:#fff; font-size:11px; }
+  .card { color:#0a58ca; font-size:13px; }
   .pct { color:var(--accent); font-weight:600; }
   .none td { color:var(--muted); font-style:italic; }
   #mine { background:var(--hl); }
@@ -42,9 +44,11 @@
 <script>
 const MEINE_PRODUKTE = [
   "Limettensaft",
+  "Limetten",
   "Katjes",
-  "Kinder Bueno",
-  "Bitburger",
+  "Möhren",
+  "Äpfel",
+  "Anselmann",
 ];
 
 let offers = [];
@@ -59,8 +63,12 @@ function sorted(list) {
 }
 
 function row(o) {
+  const tag = o.card_only ? `<span class="tag">nur mit Karte</span>` : "";
+  const card = o.card_price
+    ? `<div class="card">mit Karte: ${euro(o.card_price)}${o.card_percent ? " (−" + o.card_percent + " %)" : ""}</div>`
+    : "";
   return `<tr>
-    <td>${escape(o.name)}</td>
+    <td>${escape(o.name)}${tag}${card}</td>
     <td class="n">${o.old_price ? `<s>${euro(o.old_price)}</s>` : ""}</td>
     <td class="n"><b>${euro(o.price)}</b></td>
     <td class="n pct">${o.percent ? "−" + o.percent + " %" : ""}</td>
@@ -72,7 +80,7 @@ function render() {
   document.getElementById("mine").innerHTML = MEINE_PRODUKTE.map(term => {
     const hits = sorted(offers.filter(o => o.name.toLowerCase().includes(term.toLowerCase())));
     if (hits.length) return hits.map(row).join("");
-    return `<tr class="none"><td colspan="4">${escape(term)}, aktuell nicht im Angebot</td></tr>`;
+    return `<tr class="none"><td colspan="4">${escape(term)} – aktuell nicht im Angebot</td></tr>`;
   }).join("");
 }
 
@@ -93,7 +101,7 @@ fetch("offers.json?" + Date.now())
     render();
   })
   .catch(() => {
-    document.getElementById("meta").textContent = "Keine Daten, Workflow einmal starten.";
+    document.getElementById("meta").textContent = "Noch keine Daten, Workflow einmal starten.";
   });
 </script>
 </body>
