@@ -37,6 +37,24 @@ def go(page, url):
             page.wait_for_timeout(4000)
 
 
+def show_all(page):
+    last = -1
+    for _ in range(30):
+        count = page.locator(TILE).count()
+        if count == last:
+            break
+        last = count
+        for button in page.get_by_text("Weitere Angebote anzeigen").all():
+            try:
+                if button.is_visible():
+                    button.scroll_into_view_if_needed(timeout=2000)
+                    button.click(timeout=3000)
+                    page.wait_for_timeout(400)
+            except Exception:
+                pass
+        page.wait_for_timeout(1000)
+
+
 def read_tile(tile):
     text = re.sub(r"\([^)]*\)", " ", " ".join(tile["text"].split()))
     normal = text.split(CARD)[0] if CARD else text
@@ -82,6 +100,8 @@ with sync_playwright() as p:
         page.wait_for_selector(TILE, timeout=30000)
     except Exception:
         pass
+
+    show_all(page)
 
     for _ in range(10):
         page.mouse.wheel(0, 4000)
