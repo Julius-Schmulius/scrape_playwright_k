@@ -26,6 +26,17 @@ def accept_cookies(page):
             pass
 
 
+def go(page, url):
+    for attempt in range(3):
+        try:
+            page.goto(url, wait_until="domcontentloaded", timeout=60000)
+            return
+        except Exception:
+            if attempt == 2:
+                raise
+            page.wait_for_timeout(4000)
+
+
 def read_tile(tile):
     text = re.sub(r"\([^)]*\)", " ", " ".join(tile["text"].split()))
     normal = text.split(CARD)[0] if CARD else text
@@ -50,15 +61,27 @@ def read_tile(tile):
 
 
 with sync_playwright() as p:
-    browser = p.chromium.launch()
-    page = browser.new_page()
+    browser = p.chromium.launch(args=["--disable-blink-features=AutomationControlled"])
+    version = browser.version.split(".")[0]
+    context = browser.new_context(
+        user_agent=f"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/{version}.0.0.0 Safari/537.36",
+        locale="de-DE",
+        timezone_id="Europe/Berlin",
+        viewport={"width": 1366, "height": 900},
+    )
+    page = context.new_page()
 
-    page.goto("https://www.google.com")
+    go(page, "https://www.google.com")
     accept_cookies(page)
-    page.goto(STORE_URL)
+    go(page, STORE_URL)
     accept_cookies(page)
-    page.goto(OFFERS_URL)
-    page.wait_for_timeout(3000)
+    page.wait_for_timeout(4000)
+    go(page, OFFERS_URL)
+    accept_cookies(page)
+    try:
+        page.wait_for_selector(TILE, timeout=30000)
+    except Exception:
+        pass
 
     for _ in range(10):
         page.mouse.wheel(0, 4000)
@@ -74,7 +97,7 @@ with sync_playwright() as p:
     )
     if not tiles:
         Path("debug.html").write_text(page.content(), encoding="utf-8")
-        raise SystemExit("Keine Angebote gefunden. (debug.html)")
+        raise SystemExit("Keine Angebote gefunden, siehe debug.html")
     browser.close()
 
 offers = {}
