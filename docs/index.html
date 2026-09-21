@@ -37,18 +37,23 @@
 <p>
   Sortieren:
   <button data-sort="percent" class="on">% Ersparnis</button>
-  <button data-sort="name">A–Z</button>
+  <button data-sort="name">Alphabetisch</button>
 </p>
 <table id="all"></table>
 
 <script>
 const MEINE_PRODUKTE = [
   "Limettensaft",
-  "Limetten",
   "Katjes",
-  "Möhren",
-  "Äpfel",
-  "Anselmann",
+  "Merci",
+  "Viba",
+  "Wald-Heidelbeeren",
+  "Rittersport",
+  "Milka",
+  "Haselnüsse",
+  "Jacobs",
+  "Dallmayr",
+  "Rouladen"
 ];
 
 let offers = [];
@@ -80,7 +85,7 @@ function render() {
   document.getElementById("mine").innerHTML = MEINE_PRODUKTE.map(term => {
     const hits = sorted(offers.filter(o => o.name.toLowerCase().includes(term.toLowerCase())));
     if (hits.length) return hits.map(row).join("");
-    return `<tr class="none"><td colspan="4">${escape(term)} – aktuell nicht im Angebot</td></tr>`;
+    return `<tr class="none"><td colspan="4">${escape(term)} - nicht im Angebot</td></tr>`;
   }).join("");
 }
 
