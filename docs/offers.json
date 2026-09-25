@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-24T22:00+02:00",
+ "updated": "2026-09-25T12:12+02:00",
  "offers": [
   {
    "name": "EHRMANN Almighurt je 150-g-Becher",
@@ -101,24 +101,6 @@
    "card_percent": null
   },
   {
-   "name": "IGLO Schlemmer-Filet je 380-g-Packg.",
-   "price": 2.99,
-   "old_price": 4.89,
-   "percent": 38,
-   "card_only": false,
-   "card_price": null,
-   "card_percent": null
-  },
-  {
-   "name": "IGLO Fischstäbchen je 360 - 450-g-Packg.",
-   "price": 2.99,
-   "old_price": 4.89,
-   "percent": 38,
-   "card_only": false,
-   "card_price": 2.49,
-   "card_percent": 49
-  },
-  {
    "name": "Türk. Feigen, lose je Stück",
    "price": 0.49,
    "old_price": 0.79,
@@ -182,6 +164,24 @@
    "card_percent": null
   },
   {
+   "name": "Bioland dtsch. Tafeläpfel je 1-kg-Packg.",
+   "price": 2.49,
+   "old_price": 3.79,
+   "percent": 34,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "KÄFER Caffè Crema Lungo oder Espresso Forte je 1-kg-Packg.",
+   "price": 9.99,
+   "old_price": 14.99,
+   "percent": 33,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
    "name": "GUTFRIED Geflügel- oder Hähnchen- Fleischwurst je 350 - 400-g-Packg.",
    "price": 2.79,
    "old_price": null,
@@ -197,6 +197,15 @@
    "percent": 0,
    "card_only": false,
    "card_price": 1.79,
+   "card_percent": 0
+  },
+  {
+   "name": "IGLO Fischstäbchen je 360 - 450-g-Packg.",
+   "price": 2.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": 2.49,
    "card_percent": 0
   },
   {
@@ -324,6 +333,42 @@
    "card_only": false,
    "card_price": 12.99,
    "card_percent": 13
+  },
+  {
+   "name": "MON CHÉRI Pralinen mit Alkoholfüllung je 15 St. = 157-g-Packg.",
+   "price": 2.49,
+   "old_price": 3.99,
+   "percent": 37,
+   "card_only": true,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "KROMBACHER Pils oder Radler je Ka. 20 x 0,5-l-Fl.",
+   "price": 10.49,
+   "old_price": 17.99,
+   "percent": 41,
+   "card_only": false,
+   "card_price": 9.99,
+   "card_percent": 44
+  },
+  {
+   "name": "SHEBA Katzenfutter je 85-g-Packg.",
+   "price": 0.44,
+   "old_price": 0.65,
+   "percent": 32,
+   "card_only": false,
+   "card_price": 0.39,
+   "card_percent": 40
+  },
+  {
+   "name": "PARKSIDE PERFORMANCE® Akku-Bohrschrauber 12 V »PBSPA 12 E4« je",
+   "price": 49.99,
+   "old_price": 69.99,
+   "percent": 28,
+   "card_only": false,
+   "card_price": 39.99,
+   "card_percent": 42
   },
   {
    "name": "Molda. Zwetschgen, lose je kg",
@@ -690,15 +735,6 @@
    "price": 1.49,
    "old_price": 1.79,
    "percent": 16,
-   "card_only": false,
-   "card_price": null,
-   "card_percent": null
-  },
-  {
-   "name": "Bioland dtsch. Tafeläpfel je 1-kg-Packg.",
-   "price": 2.49,
-   "old_price": 3.79,
-   "percent": 34,
    "card_only": false,
    "card_price": null,
    "card_percent": null
@@ -1525,8 +1561,8 @@
   {
    "name": "DR. OETKER Die Ofenfrische oder Pizza Tradizionale je 385 - 415-g-Packg.",
    "price": 2.0,
-   "old_price": 3.69,
-   "percent": 45,
+   "old_price": null,
+   "percent": 0,
    "card_only": false,
    "card_price": null,
    "card_percent": null
@@ -1543,8 +1579,17 @@
   {
    "name": "COPPENRATH & WIESE Unsere Goldstücke je 6 St. = 400 - 420-g-Packg.",
    "price": 2.0,
-   "old_price": 3.49,
-   "percent": 42,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "IGLO Schlemmer-Filet je 380-g-Packg.",
+   "price": 2.99,
+   "old_price": null,
+   "percent": 0,
    "card_only": false,
    "card_price": null,
    "card_percent": null
@@ -1624,8 +1669,8 @@
   {
    "name": "LIKE Vegane Fleischalternative je 180-g-Packg.",
    "price": 2.0,
-   "old_price": 3.29,
-   "percent": 39,
+   "old_price": null,
+   "percent": 0,
    "card_only": false,
    "card_price": null,
    "card_percent": null
@@ -1633,8 +1678,8 @@
   {
    "name": "YOUCOOK Fertiggericht je 350 - 420-g-Packg.",
    "price": 3.79,
-   "old_price": 4.79,
-   "percent": 20,
+   "old_price": null,
+   "percent": 0,
    "card_only": false,
    "card_price": null,
    "card_percent": null
@@ -2038,8 +2083,8 @@
   {
    "name": "MAGGI Asia-Nudel-Snack je 62-g-Beutel",
    "price": 0.49,
-   "old_price": 0.69,
-   "percent": 28,
+   "old_price": null,
+   "percent": 0,
    "card_only": false,
    "card_price": null,
    "card_percent": null
@@ -2101,8 +2146,8 @@
   {
    "name": "SCHWARTAU Konfitüre Extra je 280 - 340-g-Glas",
    "price": 2.0,
-   "old_price": 2.99,
-   "percent": 33,
+   "old_price": null,
+   "percent": 0,
    "card_only": false,
    "card_price": null,
    "card_percent": null
@@ -2202,15 +2247,6 @@
    "price": 4.99,
    "old_price": 7.39,
    "percent": 32,
-   "card_only": false,
-   "card_price": null,
-   "card_percent": null
-  },
-  {
-   "name": "KÄFER Caffè Crema Lungo oder Espresso Forte je 1-kg-Packg.",
-   "price": 9.99,
-   "old_price": 14.99,
-   "percent": 33,
    "card_only": false,
    "card_price": null,
    "card_percent": null
@@ -3145,8 +3181,8 @@
   {
    "name": "HIPP Bio-Mahlzeit oder -Fruchtbrei je 160 - 250-g-Glas",
    "price": 1.29,
-   "old_price": 1.55,
-   "percent": 16,
+   "old_price": null,
+   "percent": 0,
    "card_only": false,
    "card_price": null,
    "card_percent": null
@@ -3190,8 +3226,8 @@
   {
    "name": "WELLAFLEX Haarspray oder Schaumfestiger je 200 - 250-ml-Dose",
    "price": 2.0,
-   "old_price": 2.95,
-   "percent": 32,
+   "old_price": null,
+   "percent": 0,
    "card_only": false,
    "card_price": null,
    "card_percent": null
@@ -3235,8 +3271,8 @@
   {
    "name": "ORAL-B Bürstenköpfe je 4 - 5-St.-Packg.",
    "price": 12.99,
-   "old_price": 14.95,
-   "percent": 13,
+   "old_price": null,
+   "percent": 0,
    "card_only": false,
    "card_price": null,
    "card_percent": null
@@ -3253,8 +3289,8 @@
   {
    "name": "SENSODYNE Zahncreme MultiCare oder ProSchmelz je 75-ml-Tube",
    "price": 3.99,
-   "old_price": 4.95,
-   "percent": 19,
+   "old_price": null,
+   "percent": 0,
    "card_only": false,
    "card_price": null,
    "card_percent": null
@@ -4290,6 +4326,87 @@
    "price": 42.5,
    "old_price": 50.0,
    "percent": 15,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "K-PURLAND Schinkenbraten je kg",
+   "price": 4.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "Südafrik. Zitronen XXL je 750-g-Netz",
+   "price": 1.49,
+   "old_price": 2.29,
+   "percent": 34,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "Span./ital. Cocktailrispentomaten je 500-g-Packg.",
+   "price": 1.99,
+   "old_price": 2.99,
+   "percent": 33,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "Span./niederl. Paprika XXL, rot je 1-kg-Netz",
+   "price": 1.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "ESCAL King Prawns Provençal oder Natur je 225 - 250-g-Packg.",
+   "price": 2.99,
+   "old_price": 4.29,
+   "percent": 30,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "NESCAFÉ Gold je 190 - 200-g-Glas",
+   "price": 5.99,
+   "old_price": 11.99,
+   "percent": 50,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "SPEE Voll- oder Colorwaschmittel je",
+   "price": 2.99,
+   "old_price": 3.95,
+   "percent": 24,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "WEISSER RIESE Voll- oder Colorwaschmittel je",
+   "price": 2.99,
+   "old_price": 3.95,
+   "percent": 24,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "Marokk./port. Himbeeren je 125-g-Packg.",
+   "price": 1.79,
+   "old_price": 2.59,
+   "percent": 30,
    "card_only": false,
    "card_price": null,
    "card_percent": null
