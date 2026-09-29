@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-29T00:34+02:00",
+ "updated": "2026-09-29T13:23+02:00",
  "offers": [
   {
    "name": "EHRMANN Almighurt je 150-g-Becher",
@@ -11,19 +11,19 @@
    "card_percent": null
   },
   {
-   "name": "MILKA Schokolade je 85 - 100-g-Tafel",
-   "price": 0.88,
-   "old_price": 1.99,
-   "percent": 55,
+   "name": "Peruan./südafrik. Avocado, lose je Stück",
+   "price": 0.49,
+   "old_price": 1.49,
+   "percent": 67,
    "card_only": false,
    "card_price": null,
    "card_percent": null
   },
   {
-   "name": "Peruan./südafrik. Avocado, lose je Stück",
-   "price": 0.69,
-   "old_price": 1.49,
-   "percent": 53,
+   "name": "MILKA Schokolade je 85 - 100-g-Tafel",
+   "price": 0.88,
+   "old_price": 1.99,
+   "percent": 55,
    "card_only": false,
    "card_price": null,
    "card_percent": null
