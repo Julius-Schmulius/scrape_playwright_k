@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-01T23:52+02:00",
+ "updated": "2026-10-02T13:07+02:00",
  "offers": [
   {
    "name": "KNORR Fix je 28 - 90-g-Beutel",
@@ -441,6 +441,15 @@
    "card_only": false,
    "card_price": 12.99,
    "card_percent": 13
+  },
+  {
+   "name": "BONNE MAMAN Konfitüre je 345 - 370-g-Glas",
+   "price": 2.49,
+   "old_price": 3.69,
+   "percent": 32,
+   "card_only": false,
+   "card_price": 1.99,
+   "card_percent": 46
   },
   {
    "name": "SANLUCAR Ital./span. Tafeltrauben hell und rot, lose je kg",
@@ -4378,6 +4387,114 @@
   {
    "name": "MOBIL Motoröl 10W-40 »2000X1« je 6-l-Gebinde",
    "price": 29.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "K-PURLAND Schweinegulasch XXL je 1-kg-Großpackg.",
+   "price": 4.99,
+   "old_price": 6.19,
+   "percent": 19,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "Peruan Kulturheidelbeeren je 300-g-Schale",
+   "price": 3.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "Poln./kroat. Kulturchampignons, weiß XXL je 750-g-Packg.",
+   "price": 2.29,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "Span. Romatomaten je 500-g-Schale",
+   "price": 1.49,
+   "old_price": 2.49,
+   "percent": 40,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "K-PURLAND Hähnchen-Grillplatte je 800-g-Packg.",
+   "price": 3.59,
+   "old_price": 3.99,
+   "percent": 10,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "MCCAIN Golden Longs je 1-kg-Packg.",
+   "price": 1.99,
+   "old_price": 4.89,
+   "percent": 59,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "LANDLIEBE Joghurt je 500-g-Glas",
+   "price": 0.99,
+   "old_price": 2.39,
+   "percent": 58,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "THOMY Reines Sonnenblumenöl je 750-ml-Fl.",
+   "price": 1.99,
+   "old_price": 3.49,
+   "percent": 42,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "JACOBS Kaffee Crema je 1-kg-Packg.",
+   "price": 11.99,
+   "old_price": 16.99,
+   "percent": 29,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "FERRERO Küsschen je 20 St. = 172 - 190-g-Packg.",
+   "price": 2.49,
+   "old_price": 3.19,
+   "percent": 21,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "ABSOLUT Vodka je 0,7-l-Fl.",
+   "price": 9.99,
+   "old_price": 14.99,
+   "percent": 33,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "SILVERCREST® Dampfbügelstation »SDSB 2400« je",
+   "price": 39.99,
    "old_price": null,
    "percent": 0,
    "card_only": false,
