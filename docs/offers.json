@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-04T22:14+02:00",
+ "updated": "2026-10-05T14:17+02:00",
  "offers": [
   {
    "name": "FUNNY-FRISCH Knuspersnack je 75 - 100-g-Packg.",
@@ -4702,8 +4702,8 @@
   {
    "name": "K-CLASSIC Erdnüsse je 150-g-Packg.",
    "price": 0.69,
-   "old_price": 0.89,
-   "percent": 22,
+   "old_price": null,
+   "percent": 0,
    "card_only": false,
    "card_price": null,
    "card_percent": null
