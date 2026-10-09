@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T13:54+02:00",
+ "updated": "2026-10-09T23:45+02:00",
  "offers": [
   {
    "name": "MÜLLER Joghurt mit der Ecke je 113 - 150-g-Becher",
@@ -2748,18 +2748,18 @@
   },
   {
    "name": "KINDER Country je 9 St. = 211,5-g-Packg.",
-   "price": 6.0,
-   "old_price": null,
-   "percent": 0,
+   "price": 2.0,
+   "old_price": 6.0,
+   "percent": 67,
    "card_only": false,
    "card_price": null,
    "card_percent": null
   },
   {
    "name": "KINDER Bueno je 6 St. = 117 - 129-g-Packg.",
-   "price": 6.0,
-   "old_price": null,
-   "percent": 0,
+   "price": 2.0,
+   "old_price": 6.0,
+   "percent": 67,
    "card_only": false,
    "card_price": null,
    "card_percent": null
@@ -4674,7 +4674,7 @@
   },
   {
    "name": "Dtsch./ital. Tafeläpfel XXL je 5-kg-Karton",
-   "price": 5.99,
+   "price": 4.99,
    "old_price": null,
    "percent": 0,
    "card_only": false,
@@ -4755,7 +4755,7 @@
   },
   {
    "name": "Span. Zucchini XXL je 1-kg-Netz",
-   "price": 1.29,
+   "price": 1.19,
    "old_price": null,
    "percent": 0,
    "card_only": false,
