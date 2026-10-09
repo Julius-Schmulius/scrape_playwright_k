@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T00:10+02:00",
+ "updated": "2026-10-09T13:54+02:00",
  "offers": [
   {
    "name": "MÜLLER Joghurt mit der Ecke je 113 - 150-g-Becher",
@@ -675,6 +675,33 @@
    "card_only": true,
    "card_price": null,
    "card_percent": null
+  },
+  {
+   "name": "LANGNESE Cremissimo je 750 - 900-ml-Packg.",
+   "price": 1.79,
+   "old_price": 3.99,
+   "percent": 55,
+   "card_only": false,
+   "card_price": 1.49,
+   "card_percent": 62
+  },
+  {
+   "name": "DOPPIO PASSO Primitivo IGT, Grillo DOC oder Alkoholfrei je 0,75-l-Fl.",
+   "price": 3.99,
+   "old_price": 7.99,
+   "percent": 50,
+   "card_only": true,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "WC-FRISCH Kraft Aktiv je 50-g-Packg.",
+   "price": 1.11,
+   "old_price": 1.95,
+   "percent": 43,
+   "card_only": false,
+   "card_price": 0.99,
+   "card_percent": 49
   },
   {
    "name": "PINK LADY Chil. Tafeläpfel je 900-g-Packg.",
@@ -4630,6 +4657,114 @@
   {
    "name": "Kürbis-Schnitzset je 15-teilig",
    "price": 7.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "K-PURLAND Schweinerücken XXL je kg",
+   "price": 4.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "Dtsch./ital. Tafeläpfel XXL je 5-kg-Karton",
+   "price": 5.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "Dtsch. Speisekartoffeln XXL je 5-kg-Sack",
+   "price": 2.49,
+   "old_price": 4.99,
+   "percent": 50,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "ORIGINAL WAGNER Piccolinis je 9 St. = 270-g-Packg.",
+   "price": 1.66,
+   "old_price": 3.69,
+   "percent": 55,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "FROSTA Schlemmerfilet, Backofen- oder Pfannen-Fisch je 240 - 360-g-Packg.",
+   "price": 2.69,
+   "old_price": 4.99,
+   "percent": 46,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "MÜLLER Milchreis, Kokosmilch-Reis oder Grießpudding je 160 - 200-g-Becher",
+   "price": 0.39,
+   "old_price": 0.99,
+   "percent": 60,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "BERGADER Almzeit, Bavaria Blu oder Lieblingskäse je 175 - 190-g-Packg.",
+   "price": 1.69,
+   "old_price": 2.99,
+   "percent": 43,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "JACOBS Barista Kaffee Crema je 1-kg-Packg.",
+   "price": 11.99,
+   "old_price": 19.99,
+   "percent": 40,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "DUPLO Waffel-Schokoriegel je 10 St. = 182-g-Packg.",
+   "price": 1.99,
+   "old_price": 2.63,
+   "percent": 24,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "KINDER Riegel je 10 St. = 210-g-Packg.",
+   "price": 1.99,
+   "old_price": 2.63,
+   "percent": 24,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "Span. Zucchini XXL je 1-kg-Netz",
+   "price": 1.29,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "ELO Topfset »Galant« je 5-teilig",
+   "price": 59.99,
    "old_price": null,
    "percent": 0,
    "card_only": false,
