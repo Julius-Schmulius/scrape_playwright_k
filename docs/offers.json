@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T23:45+02:00",
+ "updated": "2026-10-10T13:11+02:00",
  "offers": [
   {
    "name": "MÜLLER Joghurt mit der Ecke je 113 - 150-g-Becher",
@@ -3489,15 +3489,6 @@
    "price": 1.88,
    "old_price": 2.35,
    "percent": 20,
-   "card_only": false,
-   "card_price": null,
-   "card_percent": null
-  },
-  {
-   "name": "APTAMIL Folgemilch 2 oder 3 je 800-g-Packg.",
-   "price": 13.99,
-   "old_price": 19.95,
-   "percent": 29,
    "card_only": false,
    "card_price": null,
    "card_percent": null
