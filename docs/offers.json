@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T11:55+02:00",
+ "updated": "2026-10-15T22:23+02:00",
  "offers": [
   {
    "name": "HASSERÖDER Premium Pils je Ka. 20 x 0,5-l-Fl.",
@@ -4503,9 +4503,9 @@
   },
   {
    "name": "TOFFIFEE Haselnuss in Caramel je 15 St. = 125-g-Packg.",
-   "price": 1.19,
-   "old_price": 1.49,
-   "percent": 20,
+   "price": 0.89,
+   "old_price": 1.19,
+   "percent": 25,
    "card_only": false,
    "card_price": null,
    "card_percent": null
@@ -5082,15 +5082,6 @@
    "price": 0.99,
    "old_price": 1.99,
    "percent": 50,
-   "card_only": false,
-   "card_price": null,
-   "card_percent": null
-  },
-  {
-   "name": "TOFFIFEE Haselnuss in Caramel je 15 St. = 125-g-Packg.",
-   "price": 0.89,
-   "old_price": 1.19,
-   "percent": 25,
    "card_only": false,
    "card_price": null,
    "card_percent": null
