@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T22:23+02:00",
+ "updated": "2026-10-16T11:48+02:00",
  "offers": [
   {
    "name": "HASSERÖDER Premium Pils je Ka. 20 x 0,5-l-Fl.",
@@ -495,6 +495,15 @@
    "card_only": false,
    "card_price": 1.99,
    "card_percent": 34
+  },
+  {
+   "name": "DR. OETKER Bistro je 2 St. = 250-g-Packg.",
+   "price": 1.29,
+   "old_price": 2.29,
+   "percent": 43,
+   "card_only": false,
+   "card_price": 1.11,
+   "card_percent": 51
   },
   {
    "name": "PARKSIDE® Inverter-Schweißgerät »PISG 120 D5« je",
@@ -3215,15 +3224,6 @@
    "card_percent": null
   },
   {
-   "name": "LANDLUST Ofenhandschuh je",
-   "price": 3.99,
-   "old_price": null,
-   "percent": 0,
-   "card_only": false,
-   "card_price": null,
-   "card_percent": null
-  },
-  {
    "name": "LED-Lesehilfe je",
    "price": 1.49,
    "old_price": null,
@@ -3647,6 +3647,60 @@
    "card_percent": null
   },
   {
+   "name": "Peruan. Kulturheidelbeeren je 300-g-Schale",
+   "price": 3.99,
+   "old_price": 5.29,
+   "percent": 24,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "KERRYGOLD Cheddar je 130-g-Packg.",
+   "price": 1.39,
+   "old_price": 2.99,
+   "percent": 53,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "DELVERDE Ital. Teigwaren je 500-g-Beutel",
+   "price": 0.66,
+   "old_price": 1.89,
+   "percent": 65,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "MARS, SNICKERS oder BOUNTY Schokoriegel je 4 - 5 St. = 146 - 250-g-Packg.",
+   "price": 1.79,
+   "old_price": 2.87,
+   "percent": 37,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "JIM BEAM Whiskey oder Whiskey-Likör je 0,7-l-Fl.",
+   "price": 9.99,
+   "old_price": 15.99,
+   "percent": 37,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "KUSCHELWEICH Weichspüler je 1-l-Fl.",
+   "price": 1.69,
+   "old_price": 2.45,
+   "percent": 31,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
    "name": "PARKSIDE® Herren-Arbeitslatzhose je",
    "price": 14.99,
    "old_price": null,
@@ -3801,9 +3855,9 @@
   },
   {
    "name": "ALPINA Decken- und Wandweiß 10 l je 10-l-Eimer",
-   "price": 16.67,
-   "old_price": 50.0,
-   "percent": 67,
+   "price": 25.0,
+   "old_price": null,
+   "percent": 0,
    "card_only": false,
    "card_price": null,
    "card_percent": null
