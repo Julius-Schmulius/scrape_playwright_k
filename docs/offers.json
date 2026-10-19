@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T21:28+02:00",
+ "updated": "2026-10-19T12:46+02:00",
  "offers": [
   {
    "name": "LANDLIEBE Butter oder Die Streichzarte je 250-g-Packg.",
@@ -180,6 +180,15 @@
    "card_only": false,
    "card_price": 1.99,
    "card_percent": 33
+  },
+  {
+   "name": "DANONE Activia je 4 x 115-g-Becher",
+   "price": 1.29,
+   "old_price": 2.79,
+   "percent": 53,
+   "card_only": true,
+   "card_price": null,
+   "card_percent": null
   },
   {
    "name": "MÖVENPICK Fruchtjoghurt je 150-g-Becher",
@@ -1212,15 +1221,6 @@
    "price": 1.49,
    "old_price": 2.59,
    "percent": 42,
-   "card_only": false,
-   "card_price": null,
-   "card_percent": null
-  },
-  {
-   "name": "DANONE Activia je 4 x 115-g-Becher",
-   "price": 1.49,
-   "old_price": 2.79,
-   "percent": 46,
    "card_only": false,
    "card_price": null,
    "card_percent": null
