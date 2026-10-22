@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T22:41+02:00",
+ "updated": "2026-10-22T12:11+02:00",
  "offers": [
   {
    "name": "LANDLIEBE Butter oder Die Streichzarte je 250-g-Packg.",
@@ -641,7 +641,7 @@
    "card_percent": null
   },
   {
-   "name": "Brasil. Honigmelone, lose je Stück",
+   "name": "Brasil. Galiamelone, lose je Stück",
    "price": 2.49,
    "old_price": 2.99,
    "percent": 16,
@@ -4484,6 +4484,24 @@
    "card_percent": null
   },
   {
+   "name": "Span. Zitronen je 500-g-Netz",
+   "price": 0.99,
+   "old_price": 1.69,
+   "percent": 41,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "Chin./brasil. Ingwer, lose je kg",
+   "price": 3.9,
+   "old_price": null,
+   "percent": 20,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
    "name": "ALPINIO Pretzels je 140-g-Packg.",
    "price": 1.19,
    "old_price": 1.49,
@@ -4835,15 +4853,6 @@
    "card_percent": null
   },
   {
-   "name": "BALISTO oder TWIX Schokoriegel je 5 - 8 St. = 148 - 250-g-Packg.",
-   "price": 2.79,
-   "old_price": null,
-   "percent": 0,
-   "card_only": false,
-   "card_price": null,
-   "card_percent": null
-  },
-  {
    "name": "MARS, TWIX, SNICKERS, MILKY WAY und BOUNTY Mixed Minis je 20 St. = 400-g-Packg.",
    "price": 3.99,
    "old_price": 4.99,
@@ -5091,6 +5100,33 @@
    "price": 4.79,
    "old_price": 5.99,
    "percent": 20,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "Port. Himbeeren je 200-g-Packg.",
+   "price": 2.49,
+   "old_price": 3.99,
+   "percent": 37,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "Niederl./türk. Rispentomaten, lose je kg",
+   "price": 1.79,
+   "old_price": 2.99,
+   "percent": 40,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "Span./dtsch. Minigurken je 750-g-Netz",
+   "price": 1.99,
+   "old_price": 3.49,
+   "percent": 42,
    "card_only": false,
    "card_price": null,
    "card_percent": null
