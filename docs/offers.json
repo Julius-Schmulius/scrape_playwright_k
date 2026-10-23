@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T22:36+02:00",
+ "updated": "2026-10-23T12:03+02:00",
  "offers": [
   {
    "name": "LANDLIEBE Butter oder Die Streichzarte je 250-g-Packg.",
@@ -4479,6 +4479,15 @@
    "price": 3.99,
    "old_price": 4.99,
    "percent": 20,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "Dtsch. Möhren je 3-kg-Beutel",
+   "price": 1.49,
+   "old_price": null,
+   "percent": 0,
    "card_only": false,
    "card_price": null,
    "card_percent": null
