@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T22:40+01:00",
+ "updated": "2026-10-27T11:33+01:00",
  "offers": [
   {
    "name": "WEIHENSTEPHAN Butter oder Die Streichzarte je 250-g-Packg.",
@@ -92,6 +92,24 @@
    "card_percent": null
   },
   {
+   "name": "Marokk. Miniromatomaten je 250-g-Packg.",
+   "price": 0.88,
+   "old_price": 1.49,
+   "percent": 40,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "Span. Clementinen je 1-kg-Netz",
+   "price": 1.49,
+   "old_price": 2.49,
+   "percent": 40,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
    "name": "Dtsch. Speisekartoffeln je 5-kg-Sack",
    "price": 2.99,
    "old_price": 4.99,
@@ -120,15 +138,6 @@
   },
   {
    "name": "RED BULL Energy Drink oder Erfrischungsgetränk je 0,25 - 0,33-l-Dose",
-   "price": 0.88,
-   "old_price": 1.49,
-   "percent": 40,
-   "card_only": false,
-   "card_price": null,
-   "card_percent": null
-  },
-  {
-   "name": "Marokk. Miniromatomaten je 250-g-Packg.",
    "price": 0.88,
    "old_price": 1.49,
    "percent": 40,
@@ -168,15 +177,6 @@
    "price": 0.79,
    "old_price": 1.29,
    "percent": 38,
-   "card_only": false,
-   "card_price": null,
-   "card_percent": null
-  },
-  {
-   "name": "Span. Satsumas je 1,5-kg-Netz",
-   "price": 2.49,
-   "old_price": 3.99,
-   "percent": 37,
    "card_only": false,
    "card_price": null,
    "card_percent": null
@@ -465,6 +465,15 @@
    "price": 1.79,
    "old_price": 2.49,
    "percent": 28,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "Span. Satsumas je 1,5-kg-Netz",
+   "price": 2.49,
+   "old_price": 3.99,
+   "percent": 37,
    "card_only": false,
    "card_price": null,
    "card_percent": null
@@ -4062,9 +4071,9 @@
   },
   {
    "name": "SILVERCREST® Wasserkocher »SWKE 3100« je",
-   "price": 19.99,
-   "old_price": null,
-   "percent": 0,
+   "price": 17.99,
+   "old_price": 19.99,
+   "percent": 10,
    "card_only": false,
    "card_price": null,
    "card_percent": null
@@ -4673,15 +4682,6 @@
    "card_percent": null
   },
   {
-   "name": "Span. Clementinen je 1-kg-Netz",
-   "price": 1.59,
-   "old_price": 2.49,
-   "percent": 36,
-   "card_only": false,
-   "card_price": null,
-   "card_percent": null
-  },
-  {
    "name": "ALPINIO Pretzels je 140-g-Packg.",
    "price": 1.19,
    "old_price": 1.49,
@@ -5253,15 +5253,6 @@
    "price": 2.07,
    "old_price": 2.59,
    "percent": 20,
-   "card_only": false,
-   "card_price": null,
-   "card_percent": null
-  },
-  {
-   "name": "TOFFIFEE Haselnuss in Caramel je 15 St. = 125-g-Packg.",
-   "price": 0.89,
-   "old_price": 1.19,
-   "percent": 25,
    "card_only": false,
    "card_price": null,
    "card_percent": null
