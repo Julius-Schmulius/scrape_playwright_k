@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T12:20+01:00",
+ "updated": "2026-10-28T22:43+01:00",
  "offers": [
   {
    "name": "WEIHENSTEPHAN Butter oder Die Streichzarte je 250-g-Packg.",
@@ -5244,6 +5244,15 @@
    "price": 2.07,
    "old_price": 2.59,
    "percent": 20,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "TOFFIFEE Haselnuss in Caramel je 15 St. = 125-g-Packg.",
+   "price": 0.89,
+   "old_price": 1.19,
+   "percent": 25,
    "card_only": false,
    "card_price": null,
    "card_percent": null
