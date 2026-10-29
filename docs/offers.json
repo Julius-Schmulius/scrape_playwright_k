@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T22:43+01:00",
+ "updated": "2026-10-29T12:31+01:00",
  "offers": [
   {
    "name": "WEIHENSTEPHAN Butter oder Die Streichzarte je 250-g-Packg.",
@@ -405,6 +405,105 @@
    "card_only": false,
    "card_price": 14.99,
    "card_percent": 16
+  },
+  {
+   "name": "K-CLASSIC Lachsfilets XXL je 3 St. = 375-g-Großpackg.",
+   "price": 7.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": 6.99,
+   "card_percent": 12
+  },
+  {
+   "name": "EMMI Caffè Latte Mr. Big je 370-ml-Becher",
+   "price": 2.22,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": 1.99,
+   "card_percent": 10
+  },
+  {
+   "name": "ONE FOR ALL TV-Wandhalterung »WM2451« je",
+   "price": 17.99,
+   "old_price": 49.99,
+   "percent": 64,
+   "card_only": false,
+   "card_price": 14.99,
+   "card_percent": 70
+  },
+  {
+   "name": "OTTO KERN Mako-Satin-Bettwäsche-Set ca. 135 x 200 cm je 2-teilig",
+   "price": 19.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": 16.99,
+   "card_percent": 15
+  },
+  {
+   "name": "OTTO KERN Mako-Satin-Bettwäsche-Set ca. 155 x 220 cm je 2-teilig",
+   "price": 24.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": 21.24,
+   "card_percent": 15
+  },
+  {
+   "name": "OTTO KERN Mako-Satin-Kissenhüllen je 2-St.-Packg.",
+   "price": 7.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": 6.79,
+   "card_percent": 15
+  },
+  {
+   "name": "YAYLA Sucuk je 200 - 250-g-Packg.",
+   "price": 2.49,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": 2.22,
+   "card_percent": 0
+  },
+  {
+   "name": "EHRMANN High Protein Dessert je 200-g-Becher",
+   "price": 1.29,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": 1.11,
+   "card_percent": 0
+  },
+  {
+   "name": "K-CLASSIC Schlagsahne je 200-g-Becher",
+   "price": 0.77,
+   "old_price": 0.89,
+   "percent": 13,
+   "card_only": false,
+   "card_price": 0.59,
+   "card_percent": 33
+  },
+  {
+   "name": "PURINA ONE Katzennahrung je 750-g-Beutel",
+   "price": 2.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": 2.49,
+   "card_percent": 0
+  },
+  {
+   "name": "VOLVIC Juicy je 1-l-Fl.",
+   "price": 1.29,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": 0.99,
+   "card_percent": 0
   },
   {
    "name": "Peruan. Kulturheidelbeeren je 300-g-Packg.",
@@ -4673,6 +4772,663 @@
    "card_percent": null
   },
   {
+   "name": "K-CLASSIC Schwarzwälder Schinken XXL je 250-g-Großpackg.",
+   "price": 2.49,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "K-CLASSIC Beerenmischung XXL je 1-kg-Großpackg.",
+   "price": 3.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "K-CLASSIC Erdbeeren XXL je 1-kg-Großpackg.",
+   "price": 3.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "K-CLASSIC Chicken Nuggets XXL je 340-g-Großpackg.",
+   "price": 1.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "COPPENRATH & WIESE Unsere Goldstücke XXL je 10 - 20 St. = 700 - 1000-g-Beutel",
+   "price": 2.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "K-CLASSIC Seelachs-Portionsfilet XXL je 6 St. = 960-g-Großpackg.",
+   "price": 5.49,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "BONDUELLE Goldmais oder Erbsen & Möhrchen je 9 x 150 - 200-g-Dose",
+   "price": 5.55,
+   "old_price": 5.98,
+   "percent": 7,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "SAUPIQUET Thunfisch-Salat je 2 x 160-g-Dose",
+   "price": 3.49,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "MAGGI 5-Minuten-Terrine je 76 - 83-g-Becher",
+   "price": 1.19,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "MAGGI Würze je 1-kg-Fl.",
+   "price": 3.99,
+   "old_price": 6.29,
+   "percent": 36,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "DR. OETKER Original Pudding je 4 Btl. = 148-g-Packg.",
+   "price": 0.6,
+   "old_price": 2.37,
+   "percent": 75,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "K-CLASSIC Kaliforn. Pistazien XXL je 400-g-Großpackg.",
+   "price": 4.44,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "TOFFIFEE Haselnuss in Caramel je 30 St. = 250-g-Packg.",
+   "price": 1.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "KNOPPERS Milch-Haselnuss-Schnitte je 15 St. = 375-g-Packg.",
+   "price": 2.49,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "WHISKAS oder SHEBA Katzennahrung je 32 - 48 St. = 2,72 - 4,08-kg-Packg.",
+   "price": 13.79,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "ALWAYS Damenbinden je 32 - 64-St.-Packg.",
+   "price": 6.49,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "DOMESTOS Kraft & Frische WC-Gel XXL je 1-l-Fl.",
+   "price": 1.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "PANTENE PRO-V Shampoo je 1-l-Fl.",
+   "price": 7.99,
+   "old_price": 9.95,
+   "percent": 19,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "VARTA Knopfzellen CR2032 je 5-St.-Packg.",
+   "price": 2.99,
+   "old_price": 14.99,
+   "percent": 80,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "VARTA Knopfzellen CR 2025 je 5-St.-Packg.",
+   "price": 2.99,
+   "old_price": 14.99,
+   "percent": 80,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "ENERGIZER Alkaline-Batterien AA »MAX« je 14-St.-Packg.",
+   "price": 3.99,
+   "old_price": 17.49,
+   "percent": 77,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "ENERGIZER Alkaline-Batterien AAA »MAX« je 14-St.-Packg.",
+   "price": 3.99,
+   "old_price": 17.49,
+   "percent": 77,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "ANSMANN LED-Taschenlampe »150B« je",
+   "price": 4.99,
+   "old_price": 9.99,
+   "percent": 50,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "ANSMANN LED-Taschenlampe »T50F« je",
+   "price": 4.99,
+   "old_price": 11.99,
+   "percent": 58,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "ANSMANN Stirnlampe »HD70B« je",
+   "price": 4.99,
+   "old_price": 11.99,
+   "percent": 58,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "SAMSUNG Soundbar »HW-B410GF/ZG« je",
+   "price": 74.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "SAMSUNG UHD-Smart-TV 58 Zoll »GU58U8079HUXZG« je",
+   "price": 399.0,
+   "old_price": 849.0,
+   "percent": 53,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "MEDIARANGE 2-in-1-USB-Stick »MR937« je",
+   "price": 8.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "GRUNDIG TWS-In-Ear-Kopfhörer »25984« je",
+   "price": 7.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "GRUNDIG TWS-In-Ear-Kopfhörer »27071«/»27072« je",
+   "price": 7.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "MEBUS Kinder-SOS-Smartwatch »70900/70901« je",
+   "price": 17.99,
+   "old_price": 34.99,
+   "percent": 48,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "MEBUS SOS-Smartwatch »49449« je",
+   "price": 17.99,
+   "old_price": 34.99,
+   "percent": 48,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "FONTASTIC Ladekabel magnetisch USB-A auf USB-C je",
+   "price": 3.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "FONTASTIC Ladekabel magnetisch USB-C auf USB-C je",
+   "price": 3.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "FONTASTIC Ladekabel LED je",
+   "price": 3.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "HAMA Ladegerät 30 W »201960« je",
+   "price": 7.99,
+   "old_price": 14.99,
+   "percent": 46,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "HAMA Ladegerät 65 W »201961« je",
+   "price": 12.99,
+   "old_price": 24.99,
+   "percent": 48,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "HAMA Ladegerät 100 W »201902« je",
+   "price": 24.99,
+   "old_price": 39.99,
+   "percent": 37,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "HAMA Powerbank 20.000 mA »201755« je",
+   "price": 12.99,
+   "old_price": 19.99,
+   "percent": 35,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "MEDIARANGE microSDXC-Karte »MR955« je",
+   "price": 8.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "MEDIARANGE USB-Stick »MR917« je",
+   "price": 8.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "MEBUS Funk-Wetterstation »40918« je",
+   "price": 14.99,
+   "old_price": 34.99,
+   "percent": 57,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "APPLE Gift Card 100 Euro je",
+   "price": 100.0,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "APPLE Gift Card 25 Euro je",
+   "price": 25.0,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "APPLE Gift Card 50 Euro je",
+   "price": 50.0,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "Damen-Sweatpullover »Coca-Cola« je",
+   "price": 9.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "Damen-Weihnachtspullover »Coca-Cola« je",
+   "price": 9.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "ESMARA® Feinstrumpfhose in Overknee-Optik je",
+   "price": 2.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "ESMARA® Overknee-Strümpfe je Paar",
+   "price": 2.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "ESMARA® Damen-Thermo-Leggings je",
+   "price": 2.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "ESMARA® Damen-Thermo-Strumpfhose je",
+   "price": 2.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "Socken »Coca-Cola« je 2 Paar",
+   "price": 2.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "ESMARA® Damen-Boots je Paar",
+   "price": 19.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "Retroshorts »Coca-Cola« je 3-St.-Packg.",
+   "price": 6.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "Herren-Sweatpullover »Coca-Cola« je",
+   "price": 9.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "Herren-Weihnachtspullover »Coca-Cola« je",
+   "price": 9.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "ESMARA MEN® Herren-Thermosocken je 2 Paar",
+   "price": 2.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "Kuschelsocken »Coca-Cola« je Paar",
+   "price": 2.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "ESMARA MEN® Herren-Schnürstiefel je Paar",
+   "price": 17.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "ESMARA KIDS® Kinder-Stiefel je Paar",
+   "price": 4.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "Lammfell-Einlegesohlen je Paar",
+   "price": 3.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "OTTO KERN Jersey-Spannbetttuch ca. 90 - 100 x 200 cm je",
+   "price": 9.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "OTTO KERN Jersey-Spannbetttuch ca. 140 - 160 x 200 cm je",
+   "price": 12.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "OTTO KERN Jersey-Spannbetttuch ca. 180 - 200 x 200 cm je",
+   "price": 14.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "OTTO KERN Handtuch je",
+   "price": 6.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "OTTO KERN Duschtuch je",
+   "price": 12.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "OTTO KERN Gästetuch je",
+   "price": 2.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "OTTO KERN Waschhandschuh je",
+   "price": 1.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "OTTO KERN Mikrofaser-Badteppich je",
+   "price": 12.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "OTTO KERN Mikrofaser-Bademantel je",
+   "price": 14.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "OTTO KERN Kuscheldecke je",
+   "price": 9.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "ERDINGER BRAUHAUS Helles je Ka. 20 x 0,5-l-Fl.",
+   "price": 13.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "LORENZ Saltletts je 175 - 250-g-Packg.",
+   "price": 1.0,
+   "old_price": 3.0,
+   "percent": 67,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
    "name": "ALPINIO Pretzels je 140-g-Packg.",
    "price": 1.19,
    "old_price": 1.49,
@@ -5168,15 +5924,6 @@
    "card_percent": null
   },
   {
-   "name": "AMICELLI Waffelröllchen oder RITTER SPORT Schokowürfel je 153 - 200-g-Packg.",
-   "price": 2.99,
-   "old_price": null,
-   "percent": 0,
-   "card_only": false,
-   "card_price": null,
-   "card_percent": null
-  },
-  {
    "name": "RITTER SPORT Schokolade je 75 - 100-g-Tafel",
    "price": 1.83,
    "old_price": null,
@@ -5249,15 +5996,6 @@
    "card_percent": null
   },
   {
-   "name": "TOFFIFEE Haselnuss in Caramel je 15 St. = 125-g-Packg.",
-   "price": 0.89,
-   "old_price": 1.19,
-   "percent": 25,
-   "card_only": false,
-   "card_price": null,
-   "card_percent": null
-  },
-  {
    "name": "STORCK Toffifee je 48 St. = 400-g-Packg.",
    "price": 3.75,
    "old_price": null,
@@ -5280,6 +6018,222 @@
    "price": 4.79,
    "old_price": 5.99,
    "percent": 20,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "Ital./span.Tafeltrauben, hell je 500-g-Packg.",
+   "price": 1.29,
+   "old_price": 1.89,
+   "percent": 31,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "Span. Orangen je 1,5-kg-Netz",
+   "price": 2.22,
+   "old_price": 3.49,
+   "percent": 36,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "Dtsch./niederl. Blumenkohl, lose je Stück",
+   "price": 1.49,
+   "old_price": 1.99,
+   "percent": 25,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "BÄRENMARKE Haltbare Milch, 1,5 % Fett je 1-l-Packg.",
+   "price": 0.85,
+   "old_price": 1.49,
+   "percent": 42,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "BÄRENMARKE Haltbare Milch, 3,5 % Fett je 1-l-Packg.",
+   "price": 0.85,
+   "old_price": 1.59,
+   "percent": 46,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "Dekochrysanthemen Anastasia oder Boris je Bund",
+   "price": 4.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "Dekochrysanthemen Anastasia oder Boris je Bund",
+   "price": 3.49,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "Chrysanthemen Mix oder Santini je Bund",
+   "price": 3.79,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "Chrysanthemen Mono oder gefärbt je Bund",
+   "price": 2.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "Alpenveilchen je",
+   "price": 2.49,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "Flamingoblume im Keramik-Übertopf je",
+   "price": 12.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "Kalanchoe je",
+   "price": 1.79,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "Katzengras je",
+   "price": 2.49,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "Orchidee je",
+   "price": 10.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "Orchidee je",
+   "price": 15.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "Alpenveilchen je",
+   "price": 3.49,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "Chrysanthemen je",
+   "price": 6.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "Chrysanthemen je",
+   "price": 1.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "Herbstheide je",
+   "price": 0.88,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "Chrysanthemen Mix oder Santini je Bund",
+   "price": 3.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "Chrysanthemen Mono oder gefärbt je Bund",
+   "price": 2.29,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "FROSTA Fertiggericht je 450 - 500-g-Beutel",
+   "price": 2.22,
+   "old_price": 4.79,
+   "percent": 53,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "TASSIMO Kaffee-Kapseln je 118 - 268-g-Packg.",
+   "price": 3.69,
+   "old_price": 6.99,
+   "percent": 47,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "LORENZ Crunchips je 175-g-Beutel",
+   "price": 0.88,
+   "old_price": null,
+   "percent": 0,
    "card_only": false,
    "card_price": null,
    "card_percent": null
