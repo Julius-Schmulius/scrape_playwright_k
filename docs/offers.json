@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T22:52+01:00",
+ "updated": "2026-10-30T12:23+01:00",
  "offers": [
   {
    "name": "WEIHENSTEPHAN Butter oder Die Streichzarte je 250-g-Packg.",
@@ -432,6 +432,24 @@
    "card_only": false,
    "card_price": 14.99,
    "card_percent": 70
+  },
+  {
+   "name": "MÜLLER Müllermilch je 400-ml-Fl.",
+   "price": 0.69,
+   "old_price": 1.49,
+   "percent": 53,
+   "card_only": false,
+   "card_price": 0.59,
+   "card_percent": 60
+  },
+  {
+   "name": "ORO DI PARMA Tomaten, Pizzasauce oder Tomatenmark je 200-g-Tube oder 400-g-Dose",
+   "price": 1.11,
+   "old_price": 1.99,
+   "percent": 44,
+   "card_only": false,
+   "card_price": 0.99,
+   "card_percent": 50
   },
   {
    "name": "OTTO KERN Mako-Satin-Bettwäsche-Set ca. 135 x 200 cm je 2-teilig",
@@ -4646,42 +4664,6 @@
    "card_percent": null
   },
   {
-   "name": "Teller je",
-   "price": 2.0,
-   "old_price": null,
-   "percent": 0,
-   "card_only": false,
-   "card_price": null,
-   "card_percent": null
-  },
-  {
-   "name": "Cutter-Messer je 3-St.-Packg.",
-   "price": 1.0,
-   "old_price": null,
-   "percent": 0,
-   "card_only": false,
-   "card_price": null,
-   "card_percent": null
-  },
-  {
-   "name": "Duschkorb je",
-   "price": 1.0,
-   "old_price": null,
-   "percent": 0,
-   "card_only": false,
-   "card_price": null,
-   "card_percent": null
-  },
-  {
-   "name": "Snackschale je",
-   "price": 1.0,
-   "old_price": null,
-   "percent": 0,
-   "card_only": false,
-   "card_price": null,
-   "card_percent": null
-  },
-  {
    "name": "LUPILU® Kaufladen je",
    "price": 39.99,
    "old_price": null,
@@ -5172,6 +5154,51 @@
    "price": 50.0,
    "old_price": null,
    "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "Marokk. Spitzpaprika, rot oder weiß je 500-g-Packg.",
+   "price": 1.59,
+   "old_price": 2.29,
+   "percent": 30,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "HERTA Finesse Aufschnitt je 100-g-Packg.",
+   "price": 1.29,
+   "old_price": 2.59,
+   "percent": 50,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "KATJES Fruchtgummis oder Lakritze je 210-g-Beutel",
+   "price": 0.66,
+   "old_price": 1.39,
+   "percent": 52,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "PEPSI oder SCHWIP SCHWAP Erfrischungsgetränk je 1,25-l-PET-Fl.",
+   "price": 0.59,
+   "old_price": 1.49,
+   "percent": 60,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "APEROL Aperitivo je 0,7-l-Fl.",
+   "price": 8.88,
+   "old_price": 13.99,
+   "percent": 36,
    "card_only": false,
    "card_price": null,
    "card_percent": null
@@ -5773,15 +5800,6 @@
   {
    "name": "KABA Tafelschokolade je 85 - 90-g-Packg.",
    "price": 1.19,
-   "old_price": null,
-   "percent": 0,
-   "card_only": false,
-   "card_price": null,
-   "card_percent": null
-  },
-  {
-   "name": "BALISTO oder TWIX Schokoriegel je 5 - 8 St. = 148 - 250-g-Packg.",
-   "price": 1.66,
    "old_price": null,
    "percent": 0,
    "card_only": false,
