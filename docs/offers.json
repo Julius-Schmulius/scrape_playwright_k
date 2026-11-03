@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T00:54+01:00",
+ "updated": "2026-11-03T13:47+01:00",
  "offers": [
   {
    "name": "KERRYGOLD Extra XXL je 400-g-Becher",
@@ -22,8 +22,8 @@
   {
    "name": "FUNNY-FRISCH Chipsfrisch oder Ofenchips je 115 - 150-g-Beutel",
    "price": 0.89,
-   "old_price": 1.99,
-   "percent": 55,
+   "old_price": null,
+   "percent": 0,
    "card_only": false,
    "card_price": null,
    "card_percent": null
@@ -2326,8 +2326,8 @@
   {
    "name": "FREIXENET Schaumwein je 0,75-l-Fl.",
    "price": 3.77,
-   "old_price": 6.79,
-   "percent": 44,
+   "old_price": null,
+   "percent": 0,
    "card_only": false,
    "card_price": null,
    "card_percent": null
