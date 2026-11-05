@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T23:45+01:00",
+ "updated": "2026-11-05T14:12+01:00",
  "offers": [
   {
    "name": "KERRYGOLD Extra XXL je 400-g-Becher",
@@ -477,6 +477,123 @@
    "card_only": false,
    "card_price": 6.49,
    "card_percent": 0
+  },
+  {
+   "name": "CRIVIT® Damen-Funktionsunterhemd je",
+   "price": 9.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": 8.49,
+   "card_percent": 15
+  },
+  {
+   "name": "CRIVIT® Herren-Funktionsunterhemd je",
+   "price": 9.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": 8.49,
+   "card_percent": 15
+  },
+  {
+   "name": "CRIVIT® Damen-Funktionsunterhose je",
+   "price": 9.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": 8.49,
+   "card_percent": 15
+  },
+  {
+   "name": "PARKSIDE® Akku 20 V/2 Ah »PAP 202 A1« je",
+   "price": 12.99,
+   "old_price": 24.99,
+   "percent": 48,
+   "card_only": false,
+   "card_price": 9.99,
+   "card_percent": 60
+  },
+  {
+   "name": "BARILLA Pasta-Sauce je 400-g-Glas",
+   "price": 1.79,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": 1.66,
+   "card_percent": 0
+  },
+  {
+   "name": "PERFECT FIT Katzen-Trockenfutter je 750-g-Beutel",
+   "price": 2.99,
+   "old_price": 3.95,
+   "percent": 24,
+   "card_only": false,
+   "card_price": 2.79,
+   "card_percent": 29
+  },
+  {
+   "name": "MILRAM Buttermilch-Drink oder Kefir pur je 750-g-Fl.",
+   "price": 1.29,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": 0.99,
+   "card_percent": 0
+  },
+  {
+   "name": "POPP Fleischsalat je 200-g-Becher",
+   "price": 1.29,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": 0.99,
+   "card_percent": 0
+  },
+  {
+   "name": "K-CLASSIC Blüten- oder Waldhonig je 500-g-Fl.",
+   "price": 2.29,
+   "old_price": 3.29,
+   "percent": 30,
+   "card_only": false,
+   "card_price": 1.99,
+   "card_percent": 39
+  },
+  {
+   "name": "K-CLASSIC Tortelloni je 400-g-Packg.",
+   "price": 1.49,
+   "old_price": 1.69,
+   "percent": 11,
+   "card_only": false,
+   "card_price": 1.29,
+   "card_percent": 23
+  },
+  {
+   "name": "K-CLASSIC Gratin- und Pizzakäse je 250-g-Packg.",
+   "price": 1.49,
+   "old_price": 1.79,
+   "percent": 16,
+   "card_only": false,
+   "card_price": 1.29,
+   "card_percent": 27
+  },
+  {
+   "name": "K-CLASSIC Sauermilchkäse weniger als 1 % Fett je 200-g-Packg.",
+   "price": 1.69,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": 1.49,
+   "card_percent": 0
+  },
+  {
+   "name": "K-CLASSIC Schupfnudeln oder Spätzle je 500-g-Packg.",
+   "price": 1.49,
+   "old_price": 1.69,
+   "percent": 11,
+   "card_only": false,
+   "card_price": 1.29,
+   "card_percent": 23
   },
   {
    "name": "ZESPRI Neuseeländ. Kiwi Sungold, lose je Stück",
@@ -3345,6 +3462,1122 @@
    "price": 3.99,
    "old_price": 15.99,
    "percent": 75,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "CRIVIT® Funktionssocken je Paar",
+   "price": 3.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "ESMARA® Damen-Lightweight-Jacke je",
+   "price": 14.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "CRIVIT® Winter-Funktionsstrümpfe für Damen je Paar",
+   "price": 4.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "CRIVIT® Herren-Winterstiefel je Paar",
+   "price": 14.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "CRIVIT® Damen-Winterstiefel je Paar",
+   "price": 14.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "CRIVIT® Winter-Funktionsstrümpfe für Herren je Paar",
+   "price": 4.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "CRIVIT® Damen-Thermo-Funktionstights je",
+   "price": 7.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "CRIVIT® Herren-Thermo-Funktionshose je",
+   "price": 9.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "CRIVIT® Damen-Thermo-Sweatpullover je",
+   "price": 9.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "CRIVIT® Herren-Thermo-Sweatpullover je",
+   "price": 9.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "CRIVIT® Herren-Laufschuhe je Paar",
+   "price": 12.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "CRIVIT® Damen-Laufschuhe je Paar",
+   "price": 12.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "ESN Hydro Energy Gel mit Kokosnusswasser, vegan",
+   "price": 1.99,
+   "old_price": 2.49,
+   "percent": 20,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "POWERBAR Powergel je 41-ml-Packg.",
+   "price": 1.99,
+   "old_price": 2.39,
+   "percent": 16,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "PARKSIDE® Akku-Stichsäge 20 V »PSTA 20-Li A1« (ohne Akku) je",
+   "price": 14.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "PARKSIDE® Akku-Fliesenrüttler 20 V »PAFR 20-Li B2« (ohne Akku) je",
+   "price": 19.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "PARKSIDE® Akku-Set 20 V mit Luftpumpe und Kompressor je",
+   "price": 24.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "PARKSIDE® Akku-Schlagbohrschrauber 20 V »PSBSA 20-Li C2« + Akku je",
+   "price": 39.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "PARKSIDE® Akku-Bohrschrauber 20 V »PABS 20 Li I9« ohne Akku je",
+   "price": 19.99,
+   "old_price": 24.99,
+   "percent": 20,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "PARKSIDE® Akku-Farbspritzpistole 20 V »PFSA 20-Li C3« ohne Akku je",
+   "price": 19.99,
+   "old_price": 34.99,
+   "percent": 42,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "PARKSIDE® Akku-Ladegerät 20 V/4,5 A »PLG 20 C3« je",
+   "price": 9.99,
+   "old_price": 19.99,
+   "percent": 50,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "PARKSIDE® Akku 20 V 4 Ah »PAP 204« je",
+   "price": 19.99,
+   "old_price": 29.99,
+   "percent": 33,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "tuev Akku-Nass- und Trockensauger 20 V »PAWD 20-Li A1« o. Akku je",
+   "price": 39.99,
+   "old_price": 49.99,
+   "percent": 20,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "AIR UP Trinkflasche »Click« je",
+   "price": 29.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "AIR UP Geschmack-Pods »Mango Peach« je 3-St.-Packg.",
+   "price": 8.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "AIR UP Geschmack-Pods je 3-St.-Packg.",
+   "price": 8.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "AIR UP Geschmack-Pods »Waldbeere« je 3-St.-Packg.",
+   "price": 7.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "PARKSIDE® Akku-Winkelschleifer 20 V »PWSA 20-Li D4« mit Akku je",
+   "price": 49.99,
+   "old_price": 59.99,
+   "percent": 16,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "PARKSIDE® Herren-Arbeitsjacke gefüttert je",
+   "price": 19.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "PARKSIDE® Herren-Arbeitsbundhose gefüttert je",
+   "price": 9.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "PARKSIDE® Herren-Sicherheitsschuhe S1 je Paar",
+   "price": 17.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "PARKSIDE® Akku-Exzenterschleifer 20 V »PAEXSG 20-Li B1« (o. Akku) je",
+   "price": 14.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "PARKSIDE® Akku-Multischleifer 20 V »PAMSG 20-Li B1« (o. Akku) je",
+   "price": 14.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "MORE Chunky Flavour je 90-g-Dose",
+   "price": 6.0,
+   "old_price": 12.0,
+   "percent": 50,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "TROLLI Fruchtgummis je 150-g-Packg.",
+   "price": 0.6,
+   "old_price": 3.0,
+   "percent": 80,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "K-CLASSIC Snack-Salami oder Mini-Kabanossi je 250-g-Packg.",
+   "price": 2.19,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "FERDI FUCHS Mini-Würstchen je 48 - 130-g-Packg.",
+   "price": 0.88,
+   "old_price": 1.69,
+   "percent": 47,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "DR. OETKER La Mia Grande oder Familia je 360 - 480-g-Packg.",
+   "price": 3.29,
+   "old_price": 4.19,
+   "percent": 21,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "COPPENRATH & WIESE Festtagstorte oder Bunte Sahneplatte je 780 - 1550-g-Packg.",
+   "price": 7.99,
+   "old_price": 14.99,
+   "percent": 46,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "ZOTT Sahnejoghurt oder Pure Joy je 140-g-Becher",
+   "price": 0.44,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "SALAKIS Schafskäse oder Feta je 150 - 180-g-Packg.",
+   "price": 1.99,
+   "old_price": 3.99,
+   "percent": 50,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "K-CLASSIC Käse-Snacks je 220-g-Packg.",
+   "price": 2.22,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "K-CLASSIC Baguettes oder Brötchen je 300-g-Packg.",
+   "price": 0.55,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "TOFFIFEE Haselnuss in Caramel je 15 St. = 125-g-Packg.",
+   "price": 1.11,
+   "old_price": 1.49,
+   "percent": 25,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "BITBURGER Premium Pils je Ka. 20 x 0,5-l-Fl.",
+   "price": 9.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "BENEDIKTINER Hell je Ka. 20 x 0,5-l-Fl.",
+   "price": 14.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "LENOR Voll- oder Colorwaschmittel XXL je",
+   "price": 16.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "Dtsch./ital. Tafeläpfel je 2-kg-Beutel",
+   "price": 2.0,
+   "old_price": 3.79,
+   "percent": 47,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "TOBLERONE Schokolade je 100-g-Stück",
+   "price": 1.0,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "Poln./dtsch. Kulturchampignons, weiß je 250-g-Schale",
+   "price": 1.0,
+   "old_price": 1.59,
+   "percent": 37,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "K-CLASSIC Puten-, Hähnchenbrust oder Kochschinken je 200-g-Packg.",
+   "price": 2.39,
+   "old_price": 2.65,
+   "percent": 9,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "K-PURLAND Schweinebauch XXL je kg",
+   "price": 4.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "K-PURLAND Schweinekotelett je 4 St. = 700-g-Packg.",
+   "price": 3.49,
+   "old_price": 4.29,
+   "percent": 18,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "K-PURLAND Schweinenackensteak Mexico Style je 750-g-Packg.",
+   "price": 4.49,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "K-PURLAND Bauernrollbraten je kg",
+   "price": 5.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "K-PURLAND Sauerbraten vom Rind je kg",
+   "price": 9.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "Rosen-Chrysanthemenstrauß je",
+   "price": 12.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "Hähnchen-Grillschnitte XXL je 560-g-Großpackg.",
+   "price": 4.79,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "Orchidee im Keramik-Übertopf je",
+   "price": 7.49,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "Orchidee im Keramik-Übertopf je",
+   "price": 11.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "Orchidee je",
+   "price": 8.88,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "Orchidee je",
+   "price": 10.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "Rebhuhnbeere je",
+   "price": 2.69,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "Herbstheide je",
+   "price": 2.79,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "Mini Weihnachsstern je",
+   "price": 1.19,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "Weihnachsstern oder Zauberstern je",
+   "price": 3.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "K-CLASSIC White Tiger Garnelen je 225 - 250-g-Packg.",
+   "price": 2.89,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "K-CLASSIC Mayonnaise je 500-ml-Fl.",
+   "price": 1.39,
+   "old_price": 1.69,
+   "percent": 17,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "K-CLASSIC Matjesfilets je 225 - 256-Packg.",
+   "price": 1.49,
+   "old_price": 1.99,
+   "percent": 25,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "K-CLASSIC Cashew-Erdnuss-Mix je 200-g-Packg.",
+   "price": 1.59,
+   "old_price": 1.69,
+   "percent": 5,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "K-CLASSIC Happy Mini Mix je 24 St. = 500-g-Packg.",
+   "price": 2.99,
+   "old_price": 3.49,
+   "percent": 14,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "K-CLASSIC Apfelsaft je 1,5-l-Packg.",
+   "price": 1.29,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "STÁVROS Ouzo je 0,7-l-Fl.",
+   "price": 5.99,
+   "old_price": 6.99,
+   "percent": 14,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "APARANCIO Bitter Aperitivo je 0,7-l-Fl.",
+   "price": 2.99,
+   "old_price": 4.49,
+   "percent": 33,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "K-CLASSIC Blond Schokolade je 100-g-Tafel",
+   "price": 0.99,
+   "old_price": 1.19,
+   "percent": 16,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "K-CLASSIC Mandeltraum je 100-g-Tafel",
+   "price": 0.99,
+   "old_price": 1.19,
+   "percent": 16,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "K-CLASSIC Nussschokolade je 100-g-Tafel",
+   "price": 0.99,
+   "old_price": 1.19,
+   "percent": 16,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "K-CLASSIC Luftschokolade je 100-g-Tafel",
+   "price": 0.79,
+   "old_price": 0.99,
+   "percent": 20,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "K-CLASSIC Tafelschokolade Vollmilch-Haselnuss je 100-g-Tafel",
+   "price": 0.69,
+   "old_price": 0.79,
+   "percent": 12,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "K-CLASSIC Vollmilchschokolade Crispies je 100-g-Tafel",
+   "price": 0.79,
+   "old_price": 0.89,
+   "percent": 11,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "K-CLASSIC Tafelschokolade je 100-g-Tafel",
+   "price": 0.79,
+   "old_price": 0.89,
+   "percent": 11,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "K-CLASSIC Alpenvollmilch-Schokolade je 100-g-Tafel",
+   "price": 0.69,
+   "old_price": 0.79,
+   "percent": 12,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "K-CLASSIC Geflügel-Fleischwurst je 2 x 200-g-Packg.",
+   "price": 1.69,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "K-CLASSIC Mascarpone je 500-g-Becher",
+   "price": 2.79,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "K-CLASSIC High Protein Drink je 350-g-PET-Fl.",
+   "price": 0.99,
+   "old_price": 1.19,
+   "percent": 16,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "K-CLASSIC Sahnejoghurt nach griech. Art je 1-kg-Becher",
+   "price": 1.69,
+   "old_price": 2.19,
+   "percent": 22,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "TEEKANNE Kräuter- oder Früchtetee- Klassiker je 18 - 20 Btl. = 30 - 60-g-Packg.",
+   "price": 0.99,
+   "old_price": 2.19,
+   "percent": 54,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "FERRERO Rocher je 16 St. = 200-g-Packg.",
+   "price": 2.66,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "BREE Chardonnay je 0,75-l-Fl.",
+   "price": 2.49,
+   "old_price": 4.99,
+   "percent": 50,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "BREE Wein oder Free Alkoholfrei je 0,75-l-Fl.",
+   "price": 2.49,
+   "old_price": 4.99,
+   "percent": 50,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "WEISSER RIESE oder SPEE Voll- oder Colorwaschmittel je",
+   "price": 2.79,
+   "old_price": 3.95,
+   "percent": 29,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "X4-LIFE 10-Jahres-Rauchwarnmelder je",
+   "price": 6.99,
+   "old_price": 12.99,
+   "percent": 46,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "PARKSIDE® Gummidichtung P-Profil je 2 x 5-m-Rolle",
+   "price": 2.49,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "PARKSIDE® Türbodendichtung je",
+   "price": 2.49,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "TRONIC® Heizlüfter »THL 2000« je",
+   "price": 8.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "TRONIC® Heizlüfter »THLF 2000« je",
+   "price": 19.99,
+   "old_price": 29.99,
+   "percent": 33,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "K-CLASSIC Anzündwürfel je 64-St.-Packg.",
+   "price": 1.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "K-CLASSIC Anzündwolle je 32-St.-Packg.",
+   "price": 2.49,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "X4-LIFE Elektrokamin »702197« je",
+   "price": 49.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "Heizkörper-Reflexionsfolie je Rolle",
+   "price": 4.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "X4-LIFE Kohlenmonoxid-Melder je",
+   "price": 9.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "PARKSIDE® Aschesauger »PAS 20« je",
+   "price": 39.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "SWITCH ON® Funksteckdosen-Set innen je 5-teilig",
+   "price": 12.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "SWITCH ON® Funksteckdosen-Set außen je 3-teilig",
+   "price": 12.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "PARKSIDE® Asche-Eimer verzinkt je",
+   "price": 9.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "PARKSIDE® Asche-Eimer je",
+   "price": 9.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "PARKSIDE® Doppel-Türbodendichtung je",
+   "price": 2.49,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "PARKSIDE® Gummidichtung W-Profil je 2 x 5-m-Rolle",
+   "price": 2.49,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "WERDER Tomatenketchup je 750-ml-Fl.",
+   "price": 2.0,
+   "old_price": 3.29,
+   "percent": 39,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "MILRAM Gewürzquark je 185-g-Becher",
+   "price": 1.0,
+   "old_price": 1.45,
+   "percent": 31,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "MAGGI Asia- oder Wirtshaus-Snack je 119 - 170-g-Beutel",
+   "price": 1.0,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "KÖLLN Haferflocken je 500-g-Packg.",
+   "price": 1.0,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "HITSCHIES Saures Fruchtgummi je 125-g-Packg.",
+   "price": 1.0,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "DUSCHDAS Duschgel je 225-ml-Fl.",
+   "price": 1.0,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "REINERT Schinken-Nuggetz je 3 x 50-g-Packg.",
+   "price": 2.0,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "NADLER Heringsfilets je 380-g-Packg.",
+   "price": 2.0,
+   "old_price": 3.79,
+   "percent": 47,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "POPPIES Mini-Donuts oder -Eclairs je 8 - 12 St. = 184 - 324-g-Packg.",
+   "price": 2.0,
+   "old_price": 2.99,
+   "percent": 33,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "MAGGI Würze je 250-g-Fl.",
+   "price": 2.0,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "DR. OETKER Kuchenbackmischung Klassiker je 250 - 580-g-Packg.",
+   "price": 2.0,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "MILKA Tender je 5 St. = 185-g-Packg.",
+   "price": 2.0,
+   "old_price": 3.19,
+   "percent": 37,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "Damen-Handschuhe je Paar",
+   "price": 2.0,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "Damen-Wintermütze je",
+   "price": 2.0,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "Herren-Handschuhe je Paar",
+   "price": 2.0,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "Herren-Wintermütze je",
+   "price": 2.0,
+   "old_price": null,
+   "percent": 0,
    "card_only": false,
    "card_price": null,
    "card_percent": null
