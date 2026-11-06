@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T23:50+01:00",
+ "updated": "2026-11-06T14:07+01:00",
  "offers": [
   {
    "name": "KERRYGOLD Extra XXL je 400-g-Becher",
@@ -504,6 +504,15 @@
    "card_only": false,
    "card_price": 8.49,
    "card_percent": 15
+  },
+  {
+   "name": "VERNEL Weichspüler je",
+   "price": 2.22,
+   "old_price": 2.75,
+   "percent": 19,
+   "card_only": false,
+   "card_price": 1.99,
+   "card_percent": 27
   },
   {
    "name": "PARKSIDE® Akku 20 V/2 Ah »PAP 202 A1« je",
@@ -3467,6 +3476,15 @@
    "card_percent": null
   },
   {
+   "name": "POKÉMON Sammelkartenspiel-Booster »Mega-Entwicklung - Delta« je",
+   "price": 4.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
    "name": "CRIVIT® Funktionssocken je Paar",
    "price": 3.99,
    "old_price": null,
@@ -3588,6 +3606,15 @@
    "price": 1.99,
    "old_price": 2.39,
    "percent": 16,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "Costa-rican./ecuador. Ananas, lose je Stück",
+   "price": 1.49,
+   "old_price": 2.29,
+   "percent": 34,
    "card_only": false,
    "card_price": null,
    "card_percent": null
