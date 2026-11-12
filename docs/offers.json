@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T00:30+01:00",
+ "updated": "2026-11-12T14:46+01:00",
  "offers": [
   {
    "name": "ORIGINAL WAGNER Die Backfrische oder Big City Pizza je 310 - 445-g-Packg.",
@@ -369,6 +369,150 @@
    "card_only": false,
    "card_price": 26.99,
    "card_percent": 10
+  },
+  {
+   "name": "ELLESSE Damen-Sweathoodie je",
+   "price": 24.99,
+   "old_price": 55.0,
+   "percent": 54,
+   "card_only": false,
+   "card_price": 19.99,
+   "card_percent": 63
+  },
+  {
+   "name": "ELLESSE Herren-Sweathoodie je",
+   "price": 24.99,
+   "old_price": 55.0,
+   "percent": 54,
+   "card_only": false,
+   "card_price": 19.99,
+   "card_percent": 63
+  },
+  {
+   "name": "JBL Lautsprecher »Charge 6« je",
+   "price": 99.99,
+   "old_price": 199.99,
+   "percent": 50,
+   "card_only": false,
+   "card_price": 89.99,
+   "card_percent": 55
+  },
+  {
+   "name": "BRITA Wasserfilter-Kartuschen »MAXTRA PRO PURE PERFORM.« je 6-St.-Packg.",
+   "price": 27.99,
+   "old_price": 47.69,
+   "percent": 41,
+   "card_only": false,
+   "card_price": 22.39,
+   "card_percent": 53
+  },
+  {
+   "name": "BRITA Wasserflter-Kartuschen MAXTRA PRO EXTRA KALKSCHUTZ je 6-St.-Packg.",
+   "price": 29.99,
+   "old_price": 54.89,
+   "percent": 45,
+   "card_only": false,
+   "card_price": 23.99,
+   "card_percent": 56
+  },
+  {
+   "name": "ROWENTA Akku-Stielsauger »X-Pert 5.80 RH5A21« je",
+   "price": 5.8,
+   "old_price": 89.99,
+   "percent": 52,
+   "card_only": false,
+   "card_price": 79.99,
+   "card_percent": 57
+  },
+  {
+   "name": "TEFAL Heißluftfritteuse »Easy Fry Mega EY855D« je",
+   "price": 59.99,
+   "old_price": 199.99,
+   "percent": 70,
+   "card_only": false,
+   "card_price": 49.99,
+   "card_percent": 75
+  },
+  {
+   "name": "ORIGINAL WAGNER Piccolinis je 9 St. = 270-g-Packg.",
+   "price": 1.79,
+   "old_price": 3.69,
+   "percent": 51,
+   "card_only": false,
+   "card_price": 1.66,
+   "card_percent": 55
+  },
+  {
+   "name": "NUTELLA Nuss-Nugat-Creme je 1-kg-Glas",
+   "price": 5.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": 4.99,
+   "card_percent": 0
+  },
+  {
+   "name": "COPPENRATH & WIESE Lust auf Kuchen/Torte oder Cake your Day je 275 - 580-g-Packg.",
+   "price": 3.49,
+   "old_price": 4.99,
+   "percent": 30,
+   "card_only": false,
+   "card_price": 2.99,
+   "card_percent": 40
+  },
+  {
+   "name": "RÜGENWALDER MÜHLE Vegane Pfannen- oder Grillprodukte je 180 - 250-g-Packg.",
+   "price": 2.49,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": 1.99,
+   "card_percent": 0
+  },
+  {
+   "name": "WILTMANN Salami je 50 - 80-g-Packg.",
+   "price": 1.29,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": 1.19,
+   "card_percent": 0
+  },
+  {
+   "name": "GIOTTO Mini-Gebäckkugeln je 36 St. = 154-g-Packg.",
+   "price": 2.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": 2.79,
+   "card_percent": 0
+  },
+  {
+   "name": "K-CLASSIC Kaliforn. Pistazien je 250-g-Packg.",
+   "price": 2.69,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": 2.49,
+   "card_percent": 0
+  },
+  {
+   "name": "ARLA Skyr Vanille, Natur oder Drink je 400 - 450-g-Becher oder 330-ml-Fl.",
+   "price": 1.49,
+   "old_price": 1.99,
+   "percent": 25,
+   "card_only": false,
+   "card_price": 1.29,
+   "card_percent": 35
+  },
+  {
+   "name": "FROSTA High Protein oder À la Carte je 450 - 500-g-Beutel",
+   "price": 4.49,
+   "old_price": 5.99,
+   "percent": 25,
+   "card_only": false,
+   "card_price": 3.99,
+   "card_percent": 33
   },
   {
    "name": "Poln./kroat. Kulturchampignons, weiß je 400-g-Schale",
@@ -2325,9 +2469,9 @@
   },
   {
    "name": "GEROLSTEINER Mineralwasser je Ka. 12 x 0,75-l-Fl.",
-   "price": 9.49,
-   "old_price": null,
-   "percent": 0,
+   "price": 6.99,
+   "old_price": 9.49,
+   "percent": 26,
    "card_only": false,
    "card_price": null,
    "card_percent": null
@@ -3444,6 +3588,1176 @@
    "price": 19.99,
    "old_price": null,
    "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "SMILODOX Damen-Leggings je",
+   "price": 14.99,
+   "old_price": 59.99,
+   "percent": 75,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "SMILODOX Damen-Leggings Scrunch je",
+   "price": 17.99,
+   "old_price": 59.99,
+   "percent": 70,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "SMILODOX Damen-Funktionsjacke je",
+   "price": 19.99,
+   "old_price": 64.99,
+   "percent": 69,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "GIN TONIC Damen-Boots je Paar",
+   "price": 14.99,
+   "old_price": 29.9,
+   "percent": 49,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "ELLESSE Damen-Freizeitschuhe je Paar",
+   "price": 19.99,
+   "old_price": 69.0,
+   "percent": 71,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "ELLESSE Herren-Retroboxer je 3-St.-Packg.",
+   "price": 12.99,
+   "old_price": 28.0,
+   "percent": 53,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "SMILODOX Herren-T-Shirt je",
+   "price": 9.99,
+   "old_price": 39.99,
+   "percent": 75,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "ELLESSE Herren-Winterjacke je",
+   "price": 39.99,
+   "old_price": 115.0,
+   "percent": 65,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "ELLESSE Herren-Sweathose je",
+   "price": 19.99,
+   "old_price": 45.0,
+   "percent": 55,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "ELLESSE Tennissocken je 3 Paar",
+   "price": 4.99,
+   "old_price": 12.0,
+   "percent": 58,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "TIMBERLAND Herren-Stiefel je Paar",
+   "price": 99.99,
+   "old_price": 175.0,
+   "percent": 42,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "ELLESSE Herren-Freizeitschuhe je Paar",
+   "price": 19.99,
+   "old_price": 69.0,
+   "percent": 71,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "ELLESSE Beanie je",
+   "price": 9.99,
+   "old_price": 18.0,
+   "percent": 44,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "EMMA ESSENTIALS Kopfkissen je",
+   "price": 14.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "EMMA ESSENTIALS Steppbett je",
+   "price": 19.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "EMMA ESSENTIALS Steppbett je",
+   "price": 24.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "EMMA ESSENTIALS Kopfkissen je",
+   "price": 12.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "JBL Party-Lautsprecher »Partybox 310« je",
+   "price": 349.0,
+   "old_price": 359.99,
+   "percent": 3,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "SHARP QLED-Smart-TV »50JM5245E« je",
+   "price": 279.0,
+   "old_price": 699.0,
+   "percent": 60,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "ONE FOR ALL TV-Wandhalterung »WM2660« je",
+   "price": 29.99,
+   "old_price": 89.99,
+   "percent": 66,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "BRAUN Funkwecker »BC33-DCF« je",
+   "price": 9.99,
+   "old_price": 35.0,
+   "percent": 71,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "PHILIPS LED-Birnen E27 8 W je 3-St.-Packg.",
+   "price": 2.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "PHILIPS LED-Reflektoren GU10 4,7 W je 3-St.-Packg.",
+   "price": 2.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "PHILIPS LED-Filament-Birnen E27 7 W, 806 lm, 2.700 K je 3-St.-Packg.",
+   "price": 2.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "BRITA Wasserfilter-Set »Style essential XL« je 2-teilig",
+   "price": 17.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "SODASTREAM Wassersprudler-Set »Classic« je 3-teilig",
+   "price": 49.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "SODASTREAM Kunststoff-Flaschen »FUSE« je 2-St.-Packg.",
+   "price": 9.99,
+   "old_price": 22.99,
+   "percent": 56,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "SODASTREAM Metallflasche »Fizz&go« je",
+   "price": 17.99,
+   "old_price": 29.99,
+   "percent": 40,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "TEFAL Pfannen-Set »Simple Cook« je 3-teilig",
+   "price": 29.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "ROTHO Multibag »Style« je",
+   "price": 7.99,
+   "old_price": 17.99,
+   "percent": 55,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "TEFAL Paninigerät/Kontaktgrill »Inicio GC241D« je",
+   "price": 34.99,
+   "old_price": 154.99,
+   "percent": 77,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "JONR Nass-Trockensauger »H2 XM2400« je",
+   "price": 129.0,
+   "old_price": 269.0,
+   "percent": 52,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "LEGO BOTANICALS »Schaukelnde Pflanzen« Bauset 11506 je 253-teilig",
+   "price": 12.99,
+   "old_price": 19.99,
+   "percent": 35,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "LEGO CITY »Pommes-Truck« Bau- und Spielset 60488 je 216-teilig",
+   "price": 12.99,
+   "old_price": 14.99,
+   "percent": 13,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "LEGO CITY »Traktor« Bau- und Spielset 60498 je 204-teilig",
+   "price": 12.99,
+   "old_price": 14.99,
+   "percent": 13,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "LEGO HARRY POTTER »Hagrids und Harrys Flucht« Bau- und Spielset 76459 je 124-teilig",
+   "price": 12.99,
+   "old_price": 19.99,
+   "percent": 35,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "LEGO STAR WARS »Belagerung von Mandalore« Bau- und Spielset 75449 je 116-teilig",
+   "price": 12.99,
+   "old_price": 19.99,
+   "percent": 35,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "LEGO DISNEY »Spaß am Strand mit Lilo und Stitch» Spielset 43280 je 113-teilig",
+   "price": 12.99,
+   "old_price": 19.99,
+   "percent": 35,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "LEGO NINJAGO »Zilvar auf Drache Grimtak« Bauset 71863 je 232-teilig",
+   "price": 12.99,
+   "old_price": 19.99,
+   "percent": 35,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "LEGO CREATOR »Spaceshuttle« Bauset 31134 je 144-teilig",
+   "price": 6.49,
+   "old_price": 9.99,
+   "percent": 35,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "LEGO CREATOR »Magisches Einhorn« 3-in-1-Set 31140 je 145-teilig",
+   "price": 6.49,
+   "old_price": 9.99,
+   "percent": 35,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "LEGO CREATOR »Hamster mit Blume« 3-in-1-Set 31376 je 166-teilig",
+   "price": 6.49,
+   "old_price": 9.99,
+   "percent": 35,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "LEGO CREATOR »Graue Katze« 3-in-1-Spielset 31163 je 407-teilig",
+   "price": 14.99,
+   "old_price": 24.99,
+   "percent": 40,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "LEGO CREATOR »Wilder Dinosaurier« 3-in-1-Bauset 31379 je 283-teilig",
+   "price": 14.99,
+   "old_price": 24.99,
+   "percent": 40,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "KIDLAND® Puppenhaus »XXL« je 54-teilig",
+   "price": 29.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "MATTEL HOT WHEELS Monster Trucks »Loop-&-Flip Trophy Chall.« je",
+   "price": 14.99,
+   "old_price": 29.99,
+   "percent": 50,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "LEGO CREATOR »Retro-Spielkonsole« 3-in-1-Bauset 31380 je 268-teilig",
+   "price": 12.99,
+   "old_price": 19.99,
+   "percent": 35,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "LEGO MINECRAFT »Blasser Garten« Bau- und Spielset 21586 je 243-teilig",
+   "price": 12.99,
+   "old_price": 19.99,
+   "percent": 35,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "LEGO CREATOR »Schildkröte mit Seerose« 3-in-1-Set 31377 je 124-teilig",
+   "price": 6.49,
+   "old_price": 9.99,
+   "percent": 35,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "Plüschtier je",
+   "price": 9.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "Schmink-/Frisiertisch »My Little Pony« je",
+   "price": 14.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "LEGO CREATOR »Rosa Flamingo« 3-in-1-Spielset 31170 je 288-teilig",
+   "price": 14.99,
+   "old_price": 24.99,
+   "percent": 40,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "SODASTREAM Quick-Connect- Zylinderfüllung je",
+   "price": 6.95,
+   "old_price": 8.99,
+   "percent": 22,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "SODASTREAM Füllung CO2-Zylinder je",
+   "price": 6.95,
+   "old_price": 7.99,
+   "percent": 13,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "COOCAA QLED-Smart-TV 32 Zoll »32CRQH40Z« je",
+   "price": 99.99,
+   "old_price": 199.0,
+   "percent": 49,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "PHILIPS Dampfbügelstation »HI5920/20« je",
+   "price": 49.99,
+   "old_price": 249.99,
+   "percent": 80,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "GALLO FAMILY Cabernet Sauvignon, Rosé, Zinfandel oder Chardonnay je 0,75-l-Fl.",
+   "price": 3.67,
+   "old_price": 22.0,
+   "percent": 83,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "ELEPHANT Knabbergebäck je 125 - 180-g-Beutel",
+   "price": 1.34,
+   "old_price": 4.0,
+   "percent": 66,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "PAMPERS Pants oder Windeln je 16 - 36-St.-Packg.",
+   "price": 6.0,
+   "old_price": 12.0,
+   "percent": 50,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "IGLO Rahm-Spinat je 500-g-Packg.",
+   "price": 1.69,
+   "old_price": 2.09,
+   "percent": 19,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "K-CLASSIC Himbeeren je 750-g-Packg.",
+   "price": 5.99,
+   "old_price": 7.49,
+   "percent": 20,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "DR. OETKER High Protein je 400-g-Becher",
+   "price": 1.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "YOPRO Joghurtdrink je 270-g-Fl.",
+   "price": 1.11,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "DAVA WhitePro Eiklar je 220-ml-Fl.",
+   "price": 1.59,
+   "old_price": 1.99,
+   "percent": 20,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "STEINER'S LOWER CARB High-Protein-Teigwaren je 250 - 280-g-Packg.",
+   "price": 2.22,
+   "old_price": 2.99,
+   "percent": 25,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "LEICHT & CROSS Knusperbrot je 115 - 125-g-Packg.",
+   "price": 0.99,
+   "old_price": 1.39,
+   "percent": 28,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "K-BIO Bio-Chiasamen je 300-g-Packg.",
+   "price": 1.49,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "K-CLASSIC Soft-Datteln oder -Aprikosen je 200-g-Packg.",
+   "price": 1.0,
+   "old_price": 4.0,
+   "percent": 75,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "AHEAD Low Sugar Bar je 35-g-Riegel",
+   "price": 1.29,
+   "old_price": 1.65,
+   "percent": 21,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "BEAUTY SWEETIES Fruchtgummi-Häschen je 125-g-Packg.",
+   "price": 0.99,
+   "old_price": 1.95,
+   "percent": 49,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "K-CONCEPT+ SPORTS Protein-Riegel Crunchy je 45-g-Riegel",
+   "price": 0.99,
+   "old_price": 1.19,
+   "percent": 16,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "K-CONCEPT+ SPORTS Protein-Riegel Filled je 45-g-Riegel",
+   "price": 0.99,
+   "old_price": 1.19,
+   "percent": 16,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "MORE Protein Iced Coffee je 275-g-Dose",
+   "price": 17.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "SNACK IT Kabanossi je 120-g-Packg.",
+   "price": 1.29,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "K-CLASSIC Brotaufstrich je 150-g-Becher",
+   "price": 0.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "WEIHENSTEPHAN Joghurt mild je 500-g-Becher",
+   "price": 0.89,
+   "old_price": 1.49,
+   "percent": 40,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "EHRMANN Grand Dessert je 190-g-Becher",
+   "price": 0.49,
+   "old_price": 1.19,
+   "percent": 58,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "K-CLASSIC Deutsche Markenbutter je 250-g-Stück",
+   "price": 1.09,
+   "old_price": 1.15,
+   "percent": 5,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "BÄRENMARKE Ergiebige Kaffee-Milch je 340-g-Dose",
+   "price": 0.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "ST. MANG Limburger oder Rubius je 180 - 200-g-Stück",
+   "price": 1.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "MILKA Küchlein je 5 - 9 St. = 140 - 175-g-Packg.",
+   "price": 1.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "K-CLASSIC Mandarin-Orangen je 312-g-Dose",
+   "price": 0.75,
+   "old_price": 0.89,
+   "percent": 15,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "MUTTI Tomatenprodukt je 200 - 500-g-Dose/Tube",
+   "price": 1.11,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "K-BIO Bio-Olivenöl je 750-ml-Fl.",
+   "price": 4.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "JACOBS Löslicher Kaffee je 120 - 124-g-Packg.",
+   "price": 1.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "EM-EUKAL Hustenbonbons zuckerfrei je 75-g-Packg.",
+   "price": 1.29,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "EM-EUKAL Hustenbonbons gefüllt je 75-g-Packg.",
+   "price": 1.29,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "THREE SIXTY Vodka je 0,7-l-Fl.",
+   "price": 8.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "ROTKÄPPCHEN Qualitätswein je 0,75-l-Fl.",
+   "price": 2.99,
+   "old_price": 4.49,
+   "percent": 33,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "DEUTSCHES WEINTOR Qualitätswein je 0,75-l-Fl.",
+   "price": 3.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "FÜRST VON METTERNICH Sekt je 0,75-l-Fl.",
+   "price": 5.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "LÜBZER Bier oder Biermischgetränk je Ka. 20 x 0,5-l-Fl.",
+   "price": 9.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "BAYREUTHER Hell je Ka. 20 x 0,5-l-Fl.",
+   "price": 13.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "BAYREUTHER Hell je Ka. 20 x 0,33-l-Fl.",
+   "price": 13.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "LENOR Wäscheparfüm je 155-g-Packg.",
+   "price": 3.49,
+   "old_price": 3.95,
+   "percent": 11,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "GLÜCKSBLATT Küchentücher XXL je Packg. = 12 x 64 Blatt",
+   "price": 7.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "BLEND-A-DENT Haftcreme Extra Stark je 47-g-Tube",
+   "price": 3.99,
+   "old_price": 4.45,
+   "percent": 10,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "Ital./dtsch. Tafeläpfel, rot je 1-kg-Schale",
+   "price": 1.49,
+   "old_price": 1.99,
+   "percent": 25,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "Dtsch./niederl. Blumenkohl, lose je Stück",
+   "price": 1.49,
+   "old_price": 1.99,
+   "percent": 25,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "Miniromatomaten je 500-g-Packg.",
+   "price": 1.79,
+   "old_price": 2.49,
+   "percent": 28,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "SMASHED Bagels je 4 St. = 300-g-Packg.",
+   "price": 1.59,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "K-PURLAND Schweinegulasch XXL je 1-kg-Großpackg.",
+   "price": 4.99,
+   "old_price": 6.19,
+   "percent": 19,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "K-PURLAND Bauchscheiben Western Style je 8 St. = 700-g-Packg.",
+   "price": 3.99,
+   "old_price": 5.29,
+   "percent": 24,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "K-PURLAND Schweinefilet am Stück je kg",
+   "price": 8.39,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "SCHWAMM Knödelbraten je kg",
+   "price": 6.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "K-PURLAND Rinderrouladen XXL je kg",
+   "price": 14.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "Amaryllis",
+   "price": 3.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "Zauberstern je",
+   "price": 2.49,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "Christrose je",
+   "price": 8.88,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "Christrose je",
+   "price": 3.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "Schnittgrün Handbund je 650-g-Bund",
+   "price": 3.79,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "K-PURLAND Putenschenkel je kg",
+   "price": 4.49,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "Rosen-Gerministrauß je",
+   "price": 7.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "DALLMAYR Home Barista Caffè Crema Dolce je 1-kg-Packg.",
+   "price": 10.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "KNOPPERS Waffelschnitte je 8 St. = 200-g-Packg.",
+   "price": 1.49,
+   "old_price": 2.49,
+   "percent": 40,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "PAULANER Erfrischungsgetränk je 0,33-l-Dose",
+   "price": 0.59,
+   "old_price": 0.95,
+   "percent": 37,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "Junge Pute *Abbildungsbeispiel je kg",
+   "price": 4.99,
+   "old_price": 6.79,
+   "percent": 26,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "MEICA Trueman's je 7 St. = 540-g-Glas",
+   "price": 2.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "K-CLASSIC Röstzwiebeln je 150-g-Becher",
+   "price": 0.99,
+   "old_price": 1.19,
+   "percent": 16,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "K-CLASSIC Hot-Dog-Brötchen je 4 St. = 250-g-Packg.",
+   "price": 0.69,
+   "old_price": 0.85,
+   "percent": 18,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "K-CLASSIC Fingerfood je 250-g-Packg.",
+   "price": 1.69,
+   "old_price": 2.19,
+   "percent": 22,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "K-CLASSIC Cheese- oder Chickenburger je 2 St. = 300-g-Packg.",
+   "price": 1.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "NUII oder LOTUS BISCOFF Eis je 3 - 4 St. = 270 - 320-ml-Packg.",
+   "price": 2.49,
+   "old_price": 3.99,
+   "percent": 37,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "K-GOLD EDITION Pastrami je 100-g-Packg.",
+   "price": 1.99,
+   "old_price": 2.69,
+   "percent": 26,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "LAWA American Pancakes je 10 St. = 250-g-Packg.",
+   "price": 1.49,
+   "old_price": 2.19,
+   "percent": 31,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "K-CLASSIC Kanad. Waldheidelbeeren je 540-g-Glas",
+   "price": 1.99,
+   "old_price": 2.79,
+   "percent": 28,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "LAY'S Chips je 110 - 150-g-Packg.",
+   "price": 0.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "DR. PEPPER Erfrischungsgetränk je 0,33-l-Dose",
+   "price": 0.79,
+   "old_price": 1.09,
+   "percent": 27,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "ARIZONA Teegetränk je 1,75-l-PET-Fl.",
+   "price": 1.39,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "JACK DANIEL'S Gentleman Jack Whiskey Double Mellowed Tennessee je 0,7-l-Fl.",
+   "price": 19.99,
+   "old_price": 26.99,
+   "percent": 25,
    "card_only": false,
    "card_price": null,
    "card_percent": null
