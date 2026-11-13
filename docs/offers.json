@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T23:46+01:00",
+ "updated": "2026-11-13T14:06+01:00",
  "offers": [
   {
    "name": "ORIGINAL WAGNER Die Backfrische oder Big City Pizza je 310 - 445-g-Packg.",
@@ -1640,8 +1640,8 @@
    "card_percent": null
   },
   {
-   "name": "Zimt-Donut mit Birnenfüllung je Stück",
-   "price": 0.39,
+   "name": "Berliner/Pfannkuchen je Stück",
+   "price": 0.79,
    "old_price": null,
    "percent": 0,
    "card_only": false,
@@ -1649,8 +1649,8 @@
    "card_percent": null
   },
   {
-   "name": "Berliner/Pfannkuchen je Stück",
-   "price": 0.79,
+   "name": "Zimt-Donut mit Birnenfüllung je Stück",
+   "price": 0.39,
    "old_price": null,
    "percent": 0,
    "card_only": false,
@@ -4092,6 +4092,15 @@
    "price": 49.99,
    "old_price": 249.99,
    "percent": 80,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "Peruan. Kulturheidelbeeren je 300-g-Packg.",
+   "price": 3.33,
+   "old_price": 4.99,
+   "percent": 33,
    "card_only": false,
    "card_price": null,
    "card_percent": null
