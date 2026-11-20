@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T00:37+01:00",
+ "updated": "2026-11-20T15:00+01:00",
  "offers": [
   {
    "name": "MILKA Schokolade je 85 - 100-g-Tafel",
@@ -3516,6 +3516,69 @@
    "price": 6.99,
    "old_price": null,
    "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "Niederl./türk. Rispentomaten, lose je kg",
+   "price": 1.99,
+   "old_price": 2.99,
+   "percent": 33,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "FROSTA Gemüse je 480 - 600-g-Packg.",
+   "price": 1.88,
+   "old_price": 3.69,
+   "percent": 49,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "MÜLLER Joghurt mit der Ecke je 113 - 150-g-Becher",
+   "price": 0.33,
+   "old_price": 0.89,
+   "percent": 62,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "ROUGETTE Ofenkäse je 320-g-Packg.",
+   "price": 3.49,
+   "old_price": 5.99,
+   "percent": 41,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "POM-BÄR Kartoffelsnacks je 75-g-Beutel",
+   "price": 0.88,
+   "old_price": 1.79,
+   "percent": 50,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "JEVER Pilsener oder Fun Alkoholfrei je Ka. 20 x 0,5-l-Fl.",
+   "price": 10.49,
+   "old_price": 17.99,
+   "percent": 41,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "FA Duschgel je 250-ml-Fl.",
+   "price": 0.88,
+   "old_price": 1.35,
+   "percent": 34,
    "card_only": false,
    "card_price": null,
    "card_percent": null
