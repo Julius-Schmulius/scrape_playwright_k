@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T02:01+01:00",
+ "updated": "2026-11-26T16:13+01:00",
  "offers": [
   {
    "name": "MILKA Weihnachtsmann je 56 - 95-g-Stück",
@@ -12,12 +12,12 @@
   },
   {
    "name": "WEIHENSTEPHAN Butter oder Die Streichzarte je 250-g-Packg.",
-   "price": 1.29,
+   "price": 1.19,
    "old_price": 2.99,
-   "percent": 56,
+   "percent": 60,
    "card_only": false,
-   "card_price": 1.15,
-   "card_percent": 61
+   "card_price": null,
+   "card_percent": null
   },
   {
    "name": "EHRMANN Almighurt je 470 - 500-g-Glas",
@@ -1389,9 +1389,9 @@
   },
   {
    "name": "BÄRENMARKE Haltbare Milch, 3,5 % Fett je 1-l-Packg.",
-   "price": 9.99,
-   "old_price": 11.88,
-   "percent": 15,
+   "price": 0.84,
+   "old_price": 9.99,
+   "percent": 92,
    "card_only": false,
    "card_price": null,
    "card_percent": null
