@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T16:35+01:00",
+ "updated": "2026-11-26T02:01+01:00",
  "offers": [
   {
    "name": "MILKA Weihnachtsmann je 56 - 95-g-Stück",
@@ -405,6 +405,96 @@
    "card_only": false,
    "card_price": 99.99,
    "card_percent": 22
+  },
+  {
+   "name": "BESTRON Raclette-Grill »ARG1200CO« je",
+   "price": 34.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": 29.99,
+   "card_percent": 14
+  },
+  {
+   "name": "FROSTA Fertiggericht XXL je 800-g-Packg.",
+   "price": 4.79,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": 3.99,
+   "card_percent": 0
+  },
+  {
+   "name": "NUTELLA Nuss-Nugat-Creme je 500-g-Glas",
+   "price": 2.49,
+   "old_price": 3.99,
+   "percent": 37,
+   "card_only": false,
+   "card_price": 1.99,
+   "card_percent": 50
+  },
+  {
+   "name": "FROSTA Fischstäbchen je 10 - 15 St. = 390 - 450-g-Packg.",
+   "price": 2.99,
+   "old_price": 4.99,
+   "percent": 40,
+   "card_only": false,
+   "card_price": 2.79,
+   "card_percent": 44
+  },
+  {
+   "name": "FROSTA Schlemmerfilet, Backofen- oder Pfannen-Fisch je 240 - 360-g-Packg.",
+   "price": 2.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": 2.79,
+   "card_percent": 0
+  },
+  {
+   "name": "GIOVANNI RANA Pfannen-Gnocchi je 280 - 300-g-Packg.",
+   "price": 1.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": 1.79,
+   "card_percent": 0
+  },
+  {
+   "name": "REINERT Bärchen-Wurstspezialität je 90 - 180-g-Packg.",
+   "price": 1.49,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": 1.19,
+   "card_percent": 0
+  },
+  {
+   "name": "MARS, TWIX, SNICKERS, MILKY WAY und BOUNTY Mixed Minis je 20 St. = 400-g-Packg.",
+   "price": 3.69,
+   "old_price": 4.99,
+   "percent": 26,
+   "card_only": false,
+   "card_price": 3.33,
+   "card_percent": 33
+  },
+  {
+   "name": "WHISKAS Katzennassfutter je 12 x 85-g-Packg.",
+   "price": 3.99,
+   "old_price": 4.79,
+   "percent": 16,
+   "card_only": false,
+   "card_price": 3.69,
+   "card_percent": 22
+  },
+  {
+   "name": "Rentier bepflanzt je",
+   "price": 10.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": 9.99,
+   "card_percent": 0
   },
   {
    "name": "Span. Clementinen je 1,5-kg-Packg.",
@@ -3593,10 +3683,1585 @@
    "card_percent": null
   },
   {
+   "name": "BERTOLLI Olivenöl-Spray je 200-ml-Dose",
+   "price": 3.49,
+   "old_price": 4.49,
+   "percent": 22,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "BERGNER Messer-Set »ORIGEN« je 4-teilig",
+   "price": 14.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "BERGNER Besteck-Set »ORIGEN« je 24-teilig",
+   "price": 14.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "BERGNER Schneidebrett »ORIGEN« je",
+   "price": 7.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "BERGNER Bratpfanne »ORIGEN« Ø 20 cm je",
+   "price": 9.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "BERGNER Bratpfanne »ORIGEN« Ø 24 cm je",
+   "price": 12.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "BERGNER Bratpfanne »ORIGEN« Ø 28 cm je",
+   "price": 14.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "BERGNER Wokpfanne »ORIGEN« Ø 28 cm je",
+   "price": 19.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "BERGNER Bratpfanne »ORIGEN« Ø 16 cm je",
+   "price": 7.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "BERGNER Crêpespfanne »ORIGEN« je",
+   "price": 9.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "BERGNER Kochtopf »ORIGEN« Ø 20 cm je",
+   "price": 19.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "BERGNER Kochtopf »ORIGEN« Ø 24 cm > Größe ca. Ø 24 x 10 cm (ca. 4,3 l) je",
+   "price": 24.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "BERGNER Kochtopf »ORIGEN« Ø 28 cm je",
+   "price": 29.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "BESTRON Glaswasserkocher »AWK501COKL« je",
+   "price": 9.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "BESTRON Toaster »ATS1001COKL« je",
+   "price": 19.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "BESTRON Heißluftfritteuse »AAF7006DCOKL« je",
+   "price": 39.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "BESTRON Küchenmaschine »AKM1500CO« je",
+   "price": 49.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "BESTRON Handmixer »AHM1001COKL« je",
+   "price": 12.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "BESTRON Stabmixer »ASM501COKL« je",
+   "price": 12.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "BESTRON Eierkocher »AEC2003COKL« je",
+   "price": 9.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "BESTRON Paninigrill »ASW113CO« je",
+   "price": 14.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "BESTRON Sandwichmaker »ASM94XLCOKL« je",
+   "price": 14.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "BESTRON Mikrowelle »AMN100CO« je",
+   "price": 49.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "Damen-Pyjama »Weihnachtsmann & Co. KG« je 2-teilig",
+   "price": 9.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "ESMARA® Damen-Sweathose je",
+   "price": 6.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "ESMARA® Damen-Pullover je",
+   "price": 7.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "ESMARA® Damen-Strick-Leggings je",
+   "price": 8.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "Socken je Paar",
+   "price": 3.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "Socken je 2 Paar",
+   "price": 4.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "Herren-Pyjama »Weihnachtsmann & Co. KG« je 2-teilig",
+   "price": 9.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "ESMARA MEN® Herren-Strickpullover je",
+   "price": 7.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "Weihnachtspullover »Kaufland« je",
+   "price": 7.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "ESMARA® Socken je 3 Paar",
+   "price": 2.69,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "Kinder-Pyjama »Weihnachtsmann & Co. KG« je 2-teilig",
+   "price": 4.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "LUPILU® Kinder-Plüschoverall je",
+   "price": 7.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "Kinder-Weihnachtspullover je",
+   "price": 4.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "ESMARA KIDS® Kinder-Thermosocken je 2 Paar",
+   "price": 2.49,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "LUPILU® Kinder-Thermosocken je 2 Paar",
+   "price": 2.49,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "Kinder-Hausschuhe je Paar",
+   "price": 7.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "LIVARNO® Kuscheldecke je",
+   "price": 7.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "LIVARNO® Feinbiber-Bettwäsche-Set ca. 135 x 200 cm je 2-teilig",
+   "price": 9.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "LIVARNO® Feinbiber-Bettwäsche-Set ca. 155 x 220 cm je 2-teilig",
+   "price": 12.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "Deko-Aufsteller »Rentier« je",
+   "price": 1.0,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "Nikolaus-Stiefel je",
+   "price": 2.0,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "Nikolausmütze je",
+   "price": 1.0,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "Geschenkbox »Weihnachten« je",
+   "price": 1.0,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "Deko-Figur Elch je",
+   "price": 2.0,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "Deko-Aufsteller Tanne je",
+   "price": 2.0,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "Fenstersticker »Weihnachten« je",
+   "price": 2.0,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "LED-Teelichter je 4-St.-Packg.",
+   "price": 2.0,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "Gebäckdose je",
+   "price": 2.0,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "Aufhänger je 100-St.-Packg.",
+   "price": 1.0,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "FLASH Zündstifte mit Reibekopf je 24-St.-Packg.",
+   "price": 1.49,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "K-CLASSIC Anzündwolle je 32-St.-Packg.",
+   "price": 2.49,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "LIVARNO® LED-Galaxielichterkette mit 580 warmweißen LEDs je",
+   "price": 9.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "LIVARNO® LED-Galaxielichterkette mit 580 bunten LEDs je",
+   "price": 9.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "LIVARNO® LED-Galaxielichterkette mit 580 kaltweißen LEDs je",
+   "price": 9.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "LIVARNO® LED-Weihnachtsbaumkerzen kabellos je 15-St.-Packg.",
+   "price": 19.99,
+   "old_price": 24.99,
+   "percent": 20,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "LIVARNO® Weihnachtsbaumkugeln Ø 5 cm je 10-St.-Packg.",
+   "price": 1.49,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "LIVARNO® Weihnachtsbaumkugeln Ø 2 cm je 24-St.-Packg.",
+   "price": 1.49,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "LIVARNO® Weihnachtskugeln Ø 7 cm je 4-St.-Packg.",
+   "price": 3.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "LIVARNO® Weihnachtsschmuck je 51-teilig",
+   "price": 9.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "LIVARNO® Weihnachtsbaumkugeln Ø 3 cm je 49-St.-Packg.",
+   "price": 4.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "LIVARNO® LED-Lichterkette mit 100 warmweißen LEDs je",
+   "price": 4.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "LIVARNO® LED-Lichterkette mit 100 kaltweißen LEDs je",
+   "price": 4.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "LIVARNO® LED-Lichterkette mit 100 bunten LEDs je",
+   "price": 4.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "LIVARNO® Deko-Wichtel je",
+   "price": 6.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "LIVARNO® Deko-Rentier je",
+   "price": 6.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "LIVARNO® Deko-Lebkuchenfigur je",
+   "price": 6.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "Deko-Stecker »Beeren« je Packg.",
+   "price": 1.49,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "LIVARNO® LED-Echtwachskerzen groß je 2-St.-Packg.",
+   "price": 4.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "LIVARNO® LED-Echtwachskerzen klein je 4-St.-Packg.",
+   "price": 4.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "Magnetwürfel-Set »CraftBlocks« je",
+   "price": 7.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "Schlüsselanhänger »Surprise Makiki« je",
+   "price": 3.49,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "BABYBORN Puppe »Cutie« je",
+   "price": 7.99,
+   "old_price": 9.99,
+   "percent": 20,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "Styling-Puppenkopf »Schönheitssalon« je",
+   "price": 7.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "DICKIE Rally-Monster-Auto je",
+   "price": 4.99,
+   "old_price": 9.99,
+   "percent": 50,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "LUPILU® XL-Eisenbahn-Set »City-Express« je 53-teilig",
+   "price": 39.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "LUPILU® XL-Eisenbahn-Set »Dinoland« je 51-teilig",
+   "price": 39.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "LUPILU® Elektrische Lok mit Anhänger »Glow-in-the-Dark« je 3-teilig",
+   "price": 9.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "LUPILU® Elektrische Feuerwehrlok mit Anhänger je 2-teilig",
+   "price": 9.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "LUPILU® »Lokschuppen« Erweiterungs-Set je 24-teilig",
+   "price": 12.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "LUPILU® »Bahnhof« Erweiterungs-Set je 23-teilig",
+   "price": 12.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "LUPILU® »Verladekran« Erweiterungs-Set je 17-teilig",
+   "price": 12.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "DICKIE Einsatzfahrzeug je",
+   "price": 5.99,
+   "old_price": 9.99,
+   "percent": 40,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "SPREHE Chicken Wings BBQ XXL je 1-kg-Beutel",
+   "price": 4.29,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "MÜLLER Froop je 150-g-Becher",
+   "price": 0.3,
+   "old_price": 3.0,
+   "percent": 90,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "DANONE Actimel XXL je 12 x 100-g-Fl.",
+   "price": 2.79,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "MILRAM Frühlingsquark je 379-g-Becher",
+   "price": 1.99,
+   "old_price": 2.95,
+   "percent": 32,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "SPREEWALDHOF Party-Gurken-Topf XXL je 970-g-Glas",
+   "price": 2.69,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "TARTEX Bio-Abendbrotaufstrich je 135 - 140-g-Glas",
+   "price": 1.5,
+   "old_price": 5.97,
+   "percent": 75,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "DELPHI Grüne Oliven je 1,65-kg-Glas",
+   "price": 6.99,
+   "old_price": 9.99,
+   "percent": 30,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "KÖLLN Knusper-Müsli XXL je 1,15 - 1,2-kg-Packg.",
+   "price": 5.55,
+   "old_price": 7.97,
+   "percent": 30,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "BLANCHET Blanc de Blancs, Rosé oder Rouge de France je 0,75-l-Fl.",
+   "price": 2.5,
+   "old_price": 15.0,
+   "percent": 83,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "MARTINI Bianco oder Rosso je 1,5-l-Fl.",
+   "price": 12.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "FELIX Knabber-Mix oder Crispies je 45 - 60-g-Beutel",
+   "price": 0.75,
+   "old_price": 6.0,
+   "percent": 88,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "K-CLASSIC Ultra-Klumpstreu XXL je 8-l-Großpackg.",
+   "price": 3.95,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "FRECHE FREUNDE Bio-Frucht-Snack je 100-g-Beutel",
+   "price": 0.71,
+   "old_price": 4.25,
+   "percent": 83,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "Nordmanntanne auf Holzkreuz je Baum",
+   "price": 19.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "Nordmanntanne M je Baum",
+   "price": 23.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "Nordmanntanne L je Baum",
+   "price": 34.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "Nordmanntanne XL je Baum",
+   "price": 42.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "Nordmanntanne Premium je Baum",
+   "price": 47.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "Schnittgrün 1kg je Bund",
+   "price": 4.44,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "Schnittgrün 2,5kg je Bund",
+   "price": 7.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
    "name": "K-Classic Mischnüsse je 400-g-Packg.",
    "price": 2.49,
    "old_price": 2.99,
    "percent": 16,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "Peruan. Kulturheidelbeeren je 300-g-Schale",
+   "price": 3.99,
+   "old_price": 4.99,
+   "percent": 20,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "Span./ital. Broccoli je 500-g-Packg.",
+   "price": 1.29,
+   "old_price": 1.99,
+   "percent": 35,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "Span. Mini-Romanasalat je 2-St.-Packg.",
+   "price": 0.79,
+   "old_price": 1.29,
+   "percent": 38,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "NORDSEE Fischspezialitäten je 184 - 225-g-Packg.",
+   "price": 2.49,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "FRIENDS OF ASIA Frozen Dessert oder XTRA Xara-Eis je 75 - 100-ml-Packg.",
+   "price": 1.89,
+   "old_price": 2.99,
+   "percent": 36,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "OSWALD Schofrulade je 130-g-Becher",
+   "price": 2.99,
+   "old_price": 3.89,
+   "percent": 23,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "WIESENHOF Dtsch. junge Ente je kg",
+   "price": 4.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "ESCAL Regenbogen-Forellen je 1 - 1,035-kg-Packg.",
+   "price": 6.99,
+   "old_price": 9.99,
+   "percent": 30,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "LANDLIEBE Pudding je 150 - 225-g-Becher",
+   "price": 0.49,
+   "old_price": 0.99,
+   "percent": 50,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "ALPRO Not M*LK je 1-l-Packg.",
+   "price": 1.49,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "K-CLASSIC Herzhafte Minis je 115-g-Packg.",
+   "price": 0.99,
+   "old_price": 1.29,
+   "percent": 23,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "KERRYGOLD Cheddar je 130-g-Packg.",
+   "price": 1.39,
+   "old_price": 2.99,
+   "percent": 53,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "BONDUELLE Gemüse oder Hülsenfrüchte je 300 - 400-g-Dose",
+   "price": 1.0,
+   "old_price": 4.0,
+   "percent": 75,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "THOMY Les Sauces je 250-ml-Packg.",
+   "price": 0.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "CHIO Popcorn je 120-g-Beutel",
+   "price": 0.9,
+   "old_price": 3.57,
+   "percent": 75,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "CHIO Tortillas Chips je 110-g-Packg.",
+   "price": 0.9,
+   "old_price": 3.57,
+   "percent": 75,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "K-CLASSIC Cashewkerne versch. Sorten je 150-g-Dose",
+   "price": 1.69,
+   "old_price": 1.95,
+   "percent": 13,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "MERCI Petits je 125-g-Beutel",
+   "price": 1.69,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "HARIBO Party-Box je 750-g-Dose",
+   "price": 3.79,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "STORCK Super-Dickmann's je 9 St. = 250-g-Packg.",
+   "price": 1.59,
+   "old_price": 2.29,
+   "percent": 30,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "CHANTRÉ Weinbrand je 0,7-l-Fl.",
+   "price": 5.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "KILBEGGAN Traditional Irish Whiskey je 0,7-l-Fl.",
+   "price": 9.99,
+   "old_price": 15.99,
+   "percent": 37,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "MAYBACH Qualitätswein oder Alkoholfrei je 0,75-l-Fl.",
+   "price": 2.77,
+   "old_price": 4.99,
+   "percent": 44,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "PAULANER Hefe-Weißbier je Ka. 20 x 0,5-l-Fl.",
+   "price": 13.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "BUDWEISER Budvar je Ka. 20 x 0,5-l-Fl.",
+   "price": 14.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "DICK & DURSTIG Küchentücher je 8 x 43-Blatt-Rollen",
+   "price": 3.33,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "FAIRY Geschirrspülmittel je 545 - 900-ml-Fl.",
+   "price": 2.49,
+   "old_price": 2.99,
+   "percent": 16,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "RED BULL Energy Drink oder Erfrischungsgetränk je 0,25 - 0,33-l-Dose",
+   "price": 0.85,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "PFANNER Eistee je 2-l-Packg.",
+   "price": 0.99,
+   "old_price": 1.99,
+   "percent": 50,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "FRIENDS OF ASIA Frozen Dessert »Schneemann« je 90-ml-Packg.",
+   "price": 1.89,
+   "old_price": 2.99,
+   "percent": 36,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "FRIENDS OF ASIA Frozen Dessert »Weihnachtsmann« je 90-ml-Packg.",
+   "price": 1.89,
+   "old_price": 2.99,
+   "percent": 36,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "K-PURLAND Schinkenbraten je kg",
+   "price": 4.49,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "K-PURLAND Nacken-/Kammkotelett je 4 St. = 700-g-Packg.",
+   "price": 3.29,
+   "old_price": 4.29,
+   "percent": 23,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "K-PURLAND Schweinenackensteak Mexiko Style je 750-g-Packg.",
+   "price": 4.44,
+   "old_price": 5.59,
+   "percent": 20,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "K-PURLAND Gourmetbraten vom Schwein, gefüllt und gewürzt je kg",
+   "price": 7.49,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "K-PURLAND Rinderbraten Hals/Hohe Rippe vom Jungbullen je kg",
+   "price": 12.99,
+   "old_price": 16.99,
+   "percent": 23,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "Amaryllis je",
+   "price": 6.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "Amaryllis je",
+   "price": 4.44,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "Amaryllis dekoriert je",
+   "price": 8.88,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "Flamingoblume je",
+   "price": 6.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "Katzengras je",
+   "price": 2.49,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "Mini-Zauberstern im Keramik-Übertopf je",
+   "price": 1.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "Schnittgrün Handbund je 650-g-Bund",
+   "price": 3.79,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "Hähnchen-Minis »Cornflakes« XXL je 900-g-Großpackg.",
+   "price": 7.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "Nelken-Sprayrosenstrauß je",
+   "price": 5.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "Amaryllis dekoriert je",
+   "price": 4.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "Mini-Weihnachtsstern in Glitzer-Keramik je",
+   "price": 2.22,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "Weihnachtskaktus Twin je",
+   "price": 4.44,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "DELVERDE Ital. Teigwaren je 500-g-Beutel",
+   "price": 0.66,
+   "old_price": 1.89,
+   "percent": 65,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "KINDER Bueno je 6 St. = 117 - 129-g-Packg.",
+   "price": 1.88,
+   "old_price": 3.29,
+   "percent": 42,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "VOLVIC Naturelle je 1,5-l-PET-Fl.",
+   "price": 0.55,
+   "old_price": 1.35,
+   "percent": 59,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "ABSOLUT Vodka je 0,7-l-Fl.",
+   "price": 8.99,
+   "old_price": 14.99,
+   "percent": 40,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "Bioland Vollkorn-Saaten- Rusti je Stück",
+   "price": 0.39,
+   "old_price": 0.49,
+   "percent": 20,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "K-BIO Bio-Hummus je 200-g-Packg.",
+   "price": 0.99,
+   "old_price": 1.29,
+   "percent": 23,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "K-BIO Bio-Stremellachs je 100-g-Packg.",
+   "price": 3.33,
+   "old_price": 3.99,
+   "percent": 16,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "WHOLEY Bio-Bowl oder -Drops je 225 - 250-g-Packg.",
+   "price": 2.99,
+   "old_price": 3.95,
+   "percent": 24,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "ANDECHSER NATUR Demeter Fruchtjoghurt, 3,8 % Fett je 500-g-Glas",
+   "price": 1.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "K-BIO Bioland Speisequark Magerstufe je 250-g-Becher",
+   "price": 0.79,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "ARLA Haltbare Bio-Weidemilch 1,5 oder 3,8 % Fett je 1-l-Packg.",
+   "price": 1.29,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "BAUERNMILCH Demeter Camembert Rahmstufe je 125-g-Packg.",
+   "price": 1.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "K-BIO Bioland Mozzarella je 200-g-Beutel",
+   "price": 0.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "K-BIO Bioland Hirtenkäse je 200-g-Packg.",
+   "price": 1.69,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "ANDECHSER NATUR Bioland Schnittkäse je 125 - 150-g-Packg.",
+   "price": 2.49,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "MESTEMACHER Bio-Toastbrötchen je 4 St. = 350-g-Packg.",
+   "price": 1.89,
+   "old_price": 2.25,
+   "percent": 16,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "FIORDIFRUTTA Bio-Fruchtaufstrich je 250 - 260-g-Glas",
+   "price": 3.33,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "K-BIO Bio-Zartbitter-Kakao-Creme je 400-g-Glas",
+   "price": 2.99,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "K-BIO Bio-Mus je 250-g-Glas",
+   "price": 3.49,
+   "old_price": null,
+   "percent": 0,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "WHOLEY Bio-Cerealien je 275 - 375-g-Packg.",
+   "price": 2.99,
+   "old_price": 3.95,
+   "percent": 24,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "MATCHA MAGIC Bio-Matcha je 100-g-Dose",
+   "price": 8.99,
+   "old_price": 12.79,
+   "percent": 29,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "K-BIO Bio-Orangensaft je 1-l-Packg.",
+   "price": 1.99,
+   "old_price": 2.45,
+   "percent": 18,
    "card_only": false,
    "card_price": null,
    "card_percent": null
