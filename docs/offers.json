@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T16:13+01:00",
+ "updated": "2026-11-27T02:03+01:00",
  "offers": [
   {
    "name": "MILKA Weihnachtsmann je 56 - 95-g-Stück",
@@ -423,6 +423,15 @@
    "card_only": false,
    "card_price": 3.99,
    "card_percent": 0
+  },
+  {
+   "name": "MILCH-SCHNITTE Snack je 10 St. = 280-g-Packg.",
+   "price": 2.39,
+   "old_price": 3.29,
+   "percent": 27,
+   "card_only": false,
+   "card_price": 1.99,
+   "card_percent": 39
   },
   {
    "name": "NUTELLA Nuss-Nugat-Creme je 500-g-Glas",
@@ -4632,6 +4641,69 @@
    "price": 2.49,
    "old_price": 2.99,
    "percent": 16,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "Span. Paprika-Mix je 500-g-Packg.",
+   "price": 1.49,
+   "old_price": 2.29,
+   "percent": 34,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "DR. OETKER Bistro je 2 St. = 250-g-Packg.",
+   "price": 1.11,
+   "old_price": 2.29,
+   "percent": 51,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "MIREE oder EXQUISA Frischkäsezubereitung je 135 - 200-g-Packg.",
+   "price": 0.99,
+   "old_price": 1.89,
+   "percent": 47,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "K-CLASSIC Natives Olivenöl extra je 750-ml-Fl.",
+   "price": 4.44,
+   "old_price": 5.99,
+   "percent": 25,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "STORCK Nimm2 Lachgummi je 200 - 325-g-Beutel",
+   "price": 0.88,
+   "old_price": 1.29,
+   "percent": 31,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "SOMAT Geschirrreiniger-Tabs oder -Gel je Packg.",
+   "price": 10.49,
+   "old_price": 12.49,
+   "percent": 16,
+   "card_only": false,
+   "card_price": null,
+   "card_percent": null
+  },
+  {
+   "name": "Span. Gurke, lose je Stück",
+   "price": 0.59,
+   "old_price": 0.79,
+   "percent": 25,
    "card_only": false,
    "card_price": null,
    "card_percent": null
